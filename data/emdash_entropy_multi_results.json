@@ -1,0 +1,3002 @@
+[
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 0,
+    "punct": "em_dash",
+    "prompt": "The technology has evolved significantly—",
+    "entropies": [
+      1.6845072678241397,
+      2.3179641551254386,
+      0.5934139059668471,
+      1.381877632496198,
+      1.880122442075157
+    ],
+    "tokens": [
+      "what",
+      " was",
+      " once",
+      " a",
+      " simple"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 0,
+    "punct": "colon",
+    "prompt": "The technology has evolved significantly:",
+    "entropies": [
+      2.0319336705108393,
+      1.7725068710147047,
+      2.1604378231506995,
+      1.3816356251524224,
+      0.21604217696344163
+    ],
+    "tokens": [
+      " from",
+      " the",
+      " early",
+      " days",
+      " of"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 0,
+    "punct": "semicolon",
+    "prompt": "The technology has evolved significantly;",
+    "entropies": [
+      2.3004724044361997,
+      1.383304341727794,
+      1.9178446328518992,
+      1.5677244119087135,
+      1.5892488968080773
+    ],
+    "tokens": [
+      " the",
+      " old",
+      " methods",
+      " of",
+      " data"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 0,
+    "punct": "period",
+    "prompt": "The technology has evolved significantly.",
+    "entropies": [
+      2.322484118293417,
+      1.5526502096649637,
+      1.6331326538535393,
+      1.1304357177015039,
+      1.5452492197989252
+    ],
+    "tokens": [
+      " The",
+      " first",
+      " generation",
+      " of",
+      " the"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 0,
+    "punct": "comma",
+    "prompt": "The technology has evolved significantly,",
+    "entropies": [
+      2.0049440493085737,
+      2.1850265622185923,
+      1.1674397761721307,
+      1.7409730882166572,
+      0.6931780392444513
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " current",
+      " state",
+      " of"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 1,
+    "punct": "em_dash",
+    "prompt": "AI systems are becoming more capable—",
+    "entropies": [
+      2.0509815070325454,
+      2.5792610179816355,
+      1.8144692741182507,
+      1.3728539499543744,
+      0.7792453868927662
+    ],
+    "tokens": [
+      "so",
+      " why",
+      " are",
+      " they",
+      " still"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 1,
+    "punct": "colon",
+    "prompt": "AI systems are becoming more capable:",
+    "entropies": [
+      1.8985396186925045,
+      1.0402209023582956,
+      1.7922061532906333,
+      2.4605443039882897,
+      2.365548523429195
+    ],
+    "tokens": [
+      " they",
+      " can",
+      " now",
+      " generate",
+      " text"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 1,
+    "punct": "semicolon",
+    "prompt": "AI systems are becoming more capable;",
+    "entropies": [
+      2.2039839122128364,
+      0.04220302358395521,
+      2.117044270860553,
+      2.0131813753429757,
+      1.849244016755696
+    ],
+    "tokens": [
+      " however",
+      ",",
+      " they",
+      " are",
+      " still"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 1,
+    "punct": "period",
+    "prompt": "AI systems are becoming more capable.",
+    "entropies": [
+      2.516781853304316,
+      1.2331964574752305,
+      1.734350696207118,
+      2.582831932128237,
+      1.3658630340375877
+    ],
+    "tokens": [
+      " They",
+      " can",
+      " now",
+      " perform",
+      " tasks"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 1,
+    "punct": "comma",
+    "prompt": "AI systems are becoming more capable,",
+    "entropies": [
+      1.7496629838957602,
+      2.247456790398444,
+      2.044644530620953,
+      1.950810184388829,
+      2.183468789308749
+    ],
+    "tokens": [
+      " but",
+      " they",
+      " still",
+      " have",
+      " limitations"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 2,
+    "punct": "em_dash",
+    "prompt": "The economic implications are profound—",
+    "entropies": [
+      1.3188381823088697,
+      1.5612142502603306,
+      1.3989388188466718,
+      0.05586136532099237,
+      2.242588641228212
+    ],
+    "tokens": [
+      "every",
+      " dollar",
+      " invested",
+      " in",
+      " prevention"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 2,
+    "punct": "colon",
+    "prompt": "The economic implications are profound:",
+    "entropies": [
+      2.1018501749545004,
+      1.387761414925814,
+      0.3511292162549394,
+      1.615933212038009,
+      1.4403131805582403
+    ],
+    "tokens": [
+      " the",
+      " cost",
+      " of",
+      " a",
+      " single"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 2,
+    "punct": "semicolon",
+    "prompt": "The economic implications are profound;",
+    "entropies": [
+      2.0695937102145674,
+      1.429382905602624,
+      0.45459094864379224,
+      1.7389780265177093,
+      1.293831626069533
+    ],
+    "tokens": [
+      " the",
+      " cost",
+      " of",
+      " a",
+      " single"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 2,
+    "punct": "period",
+    "prompt": "The economic implications are profound.",
+    "entropies": [
+      2.174073021597965,
+      1.3326708717462772,
+      0.26394313494824584,
+      1.801262693218259,
+      2.1297914222874734
+    ],
+    "tokens": [
+      " The",
+      " cost",
+      " of",
+      " producing",
+      " and"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 2,
+    "punct": "comma",
+    "prompt": "The economic implications are profound,",
+    "entropies": [
+      1.915514233863237,
+      1.6304445140665724,
+      1.299893170160693,
+      0.3053952327020575,
+      1.7280383255179237
+    ],
+    "tokens": [
+      " as",
+      " the",
+      " cost",
+      " of",
+      " producing"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 3,
+    "punct": "em_dash",
+    "prompt": "Climate change poses unprecedented challenges—",
+    "entropies": [
+      2.237791134920291,
+      2.1469381671793126,
+      1.4930445944014743,
+      0.0026833119671270935,
+      2.0908044757281026
+    ],
+    "tokens": [
+      "both",
+      " in",
+      " terms",
+      " of",
+      " its"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 3,
+    "punct": "colon",
+    "prompt": "Climate change poses unprecedented challenges:",
+    "entropies": [
+      2.06978979885608,
+      1.1215805871126951,
+      0.09468904832172537,
+      1.666412996242464,
+      0.004383264836374502
+    ],
+    "tokens": [
+      " rising",
+      " temperatures",
+      ",",
+      " extreme",
+      " weather"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 3,
+    "punct": "semicolon",
+    "prompt": "Climate change poses unprecedented challenges;",
+    "entropies": [
+      2.1822976873087594,
+      0.03845689248878249,
+      2.117061811243077,
+      1.455273777580264,
+      1.306153321061116
+    ],
+    "tokens": [
+      " however",
+      ",",
+      " the",
+      " potential",
+      " for"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 3,
+    "punct": "period",
+    "prompt": "Climate change poses unprecedented challenges.",
+    "entropies": [
+      2.3582627233027074,
+      1.6696860554624222,
+      1.8767942440196648,
+      2.5958273901985214,
+      2.5614710231842706
+    ],
+    "tokens": [
+      " The",
+      " world",
+      " is",
+      " witnessing",
+      " a"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 3,
+    "punct": "comma",
+    "prompt": "Climate change poses unprecedented challenges,",
+    "entropies": [
+      2.227344241525432,
+      1.0866575040123785,
+      1.70539772811032,
+      2.119906341229193,
+      0.0003999701628218699
+    ],
+    "tokens": [
+      " particularly",
+      " in",
+      " the",
+      " realm",
+      " of"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 4,
+    "punct": "em_dash",
+    "prompt": "Education systems worldwide are adapting—",
+    "entropies": [
+      2.1258340477149846,
+      2.24749826904174,
+      1.722584490650027,
+      0.011417510011389088,
+      2.3235549665382678
+    ],
+    "tokens": [
+      "often",
+      " in",
+      " response",
+      " to",
+      " the"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 4,
+    "punct": "colon",
+    "prompt": "Education systems worldwide are adapting:",
+    "entropies": [
+      1.9201169711909551,
+      1.660121894783562,
+      1.2340918100572331,
+      2.064824187988371,
+      2.5540917539006958
+    ],
+    "tokens": [
+      " the",
+      " shift",
+      " from",
+      " traditional",
+      " to"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 4,
+    "punct": "semicolon",
+    "prompt": "Education systems worldwide are adapting;",
+    "entropies": [
+      2.2565402501793903,
+      1.8240490844310349,
+      0.42387196407923544,
+      1.5409940981837529,
+      1.3786189692567683
+    ],
+    "tokens": [
+      " the",
+      " question",
+      " is",
+      ",",
+      " how"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 4,
+    "punct": "period",
+    "prompt": "Education systems worldwide are adapting.",
+    "entropies": [
+      2.263936635969743,
+      1.6950450816742229,
+      1.9031482894899932,
+      1.3194890556082028,
+      1.970064656127693
+    ],
+    "tokens": [
+      " The",
+      " traditional",
+      " model",
+      " of",
+      " education"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 4,
+    "punct": "comma",
+    "prompt": "Education systems worldwide are adapting,",
+    "entropies": [
+      2.446981497903643,
+      2.4246065549387654,
+      1.9993511746809087,
+      0.7484752170993548,
+      0.6714858408762686
+    ],
+    "tokens": [
+      " but",
+      " the",
+      " question",
+      " remains",
+      ":"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 5,
+    "punct": "em_dash",
+    "prompt": "The healthcare industry faces new demands—",
+    "entropies": [
+      1.8883815165649351,
+      1.709029496486666,
+      1.925630173747289,
+      2.1094280487834425,
+      0.2552154280307832
+    ],
+    "tokens": [
+      "both",
+      " from",
+      " the",
+      " public",
+      " and"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 5,
+    "punct": "colon",
+    "prompt": "The healthcare industry faces new demands:",
+    "entropies": [
+      1.9740222984864602,
+      2.3121037927034087,
+      0.6750446225388195,
+      2.266894215886734,
+      2.3187915759252515
+    ],
+    "tokens": [
+      " the",
+      " need",
+      " to",
+      " provide",
+      " high"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 5,
+    "punct": "semicolon",
+    "prompt": "The healthcare industry faces new demands;",
+    "entropies": [
+      2.1621192434328833,
+      1.7508554478406224,
+      0.7410631868069413,
+      2.1305819596310083,
+      2.293639418892473
+    ],
+    "tokens": [
+      " the",
+      " need",
+      " for",
+      " more",
+      " efficient"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 5,
+    "punct": "period",
+    "prompt": "The healthcare industry faces new demands.",
+    "entropies": [
+      2.2197660321827213,
+      2.0015116362938037,
+      0.49091205980357805,
+      1.71725243195321,
+      2.0604102094749215
+    ],
+    "tokens": [
+      " The",
+      " aging",
+      " population",
+      ",",
+      " the"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 5,
+    "punct": "comma",
+    "prompt": "The healthcare industry faces new demands,",
+    "entropies": [
+      2.551702723856243,
+      1.8696197962225134,
+      1.4280614653041082,
+      0.5576210308215399,
+      1.9825042616149138
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " need",
+      " for",
+      " more"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 6,
+    "punct": "em_dash",
+    "prompt": "Social media has transformed communication—",
+    "entropies": [
+      1.8546201183136484,
+      2.3060347837636437,
+      2.429569069353602,
+      2.4742808479670306,
+      1.1193292918647002
+    ],
+    "tokens": [
+      "both",
+      " in",
+      " the",
+      " way",
+      " we"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 6,
+    "punct": "colon",
+    "prompt": "Social media has transformed communication:",
+    "entropies": [
+      2.095173583351419,
+      2.0734162497883473,
+      2.4628510059303057,
+      2.4783316673984523,
+      0.4534663834199498
+    ],
+    "tokens": [
+      " it",
+      "'s",
+      " now",
+      " possible",
+      " to"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 6,
+    "punct": "semicolon",
+    "prompt": "Social media has transformed communication;",
+    "entropies": [
+      1.8953536483199878,
+      1.9890921618193693,
+      2.3843239728899146,
+      2.409917671387363,
+      2.402828484504597
+    ],
+    "tokens": [
+      " it",
+      "'s",
+      " now",
+      " a",
+      " global"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 6,
+    "punct": "period",
+    "prompt": "Social media has transformed communication.",
+    "entropies": [
+      2.311874680955005,
+      2.2594453600861355,
+      1.549110393732631,
+      0.1959803254740187,
+      1.6926123688499046
+    ],
+    "tokens": [
+      " It",
+      " allows",
+      " people",
+      " to",
+      " connect"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 6,
+    "punct": "comma",
+    "prompt": "Social media has transformed communication,",
+    "entropies": [
+      2.0993445756696185,
+      2.2480222791779436,
+      1.83289272952053,
+      2.052924198021875,
+      2.4978657913990845
+    ],
+    "tokens": [
+      " but",
+      " it",
+      "'s",
+      " also",
+      " a"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 7,
+    "punct": "em_dash",
+    "prompt": "Quantum computing represents a paradigm shift—",
+    "entropies": [
+      1.971534991066206,
+      0.8557655158704981,
+      0.624115421510575,
+      2.029266955396297,
+      1.8948350144545782
+    ],
+    "tokens": [
+      "moving",
+      " from",
+      " classical",
+      " computing",
+      "'s"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 7,
+    "punct": "colon",
+    "prompt": "Quantum computing represents a paradigm shift:",
+    "entropies": [
+      2.177834738458508,
+      2.4097454916377825,
+      1.0328490833001553,
+      1.2972646680466262,
+      1.5293175103196261
+    ],
+    "tokens": [
+      " it",
+      "'s",
+      " not",
+      " just",
+      " about"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 7,
+    "punct": "semicolon",
+    "prompt": "Quantum computing represents a paradigm shift;",
+    "entropies": [
+      1.4244389956056256,
+      2.0155810935066585,
+      0.5545466474779477,
+      0.7942599343754876,
+      1.3918769574053003
+    ],
+    "tokens": [
+      " it",
+      "'s",
+      " not",
+      " just",
+      " a"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 7,
+    "punct": "period",
+    "prompt": "Quantum computing represents a paradigm shift.",
+    "entropies": [
+      2.4596977482794316,
+      2.316303376661546,
+      0.7911208673343881,
+      0.6485247078978853,
+      1.4115208750362898
+    ],
+    "tokens": [
+      " It",
+      "'s",
+      " not",
+      " just",
+      " about"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 7,
+    "punct": "comma",
+    "prompt": "Quantum computing represents a paradigm shift,",
+    "entropies": [
+      1.779777917250516,
+      1.1661391372835834,
+      0.9106217805364,
+      0.27255339460652217,
+      0.691042569502619
+    ],
+    "tokens": [
+      " promising",
+      " exponential",
+      " speed",
+      "ups",
+      " for"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 8,
+    "punct": "em_dash",
+    "prompt": "Remote work has reshaped the workforce—",
+    "entropies": [
+      2.0149209815767004,
+      1.2705694489150257,
+      2.2956709246644684,
+      2.038496144185749,
+      0.8631863260693392
+    ],
+    "tokens": [
+      "especially",
+      " for",
+      " the",
+      " tech",
+      " industry"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 8,
+    "punct": "colon",
+    "prompt": "Remote work has reshaped the workforce:",
+    "entropies": [
+      2.219626636536299,
+      1.6890058797572456,
+      2.3051883919748075,
+      1.7591953306527333,
+      0.6282413728813452
+    ],
+    "tokens": [
+      " it",
+      "'s",
+      " more",
+      " flexible",
+      ","
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 8,
+    "punct": "semicolon",
+    "prompt": "Remote work has reshaped the workforce;",
+    "entropies": [
+      2.3021370725614188,
+      1.3141744064614955,
+      1.7780848396480011,
+      0.9792145608806839,
+      1.158369998945523
+    ],
+    "tokens": [
+      " it",
+      "'s",
+      " not",
+      " just",
+      " a"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 8,
+    "punct": "period",
+    "prompt": "Remote work has reshaped the workforce.",
+    "entropies": [
+      2.5039830292532312,
+      2.0942414640344578,
+      2.343992550417332,
+      0.8686151570785117,
+      1.2973646747638707
+    ],
+    "tokens": [
+      " It",
+      "'s",
+      " not",
+      " just",
+      " about"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 8,
+    "punct": "comma",
+    "prompt": "Remote work has reshaped the workforce,",
+    "entropies": [
+      2.3225217575417467,
+      1.0967419659226645,
+      0.9823548717451296,
+      2.143767130236613,
+      0.7924036170778971
+    ],
+    "tokens": [
+      " offering",
+      " flexibility",
+      " and",
+      " new",
+      " opportunities"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 9,
+    "punct": "em_dash",
+    "prompt": "Privacy concerns are growing worldwide—",
+    "entropies": [
+      1.7068760769007738,
+      1.9113617415310584,
+      1.4130404758894135,
+      2.4854579172057907,
+      0.0031546531353699486
+    ],
+    "tokens": [
+      "especially",
+      " in",
+      " the",
+      " context",
+      " of"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 9,
+    "punct": "colon",
+    "prompt": "Privacy concerns are growing worldwide:",
+    "entropies": [
+      2.1354014586816783,
+      1.8772695906900632,
+      1.0700457953218916,
+      2.1552426919065075,
+      2.5186090007454904
+    ],
+    "tokens": [
+      " the",
+      " European",
+      " Union",
+      " has",
+      " passed"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 9,
+    "punct": "semicolon",
+    "prompt": "Privacy concerns are growing worldwide;",
+    "entropies": [
+      2.3141571443334037,
+      0.03700229723682997,
+      2.1984118639010615,
+      1.398191422705606,
+      0.1920659766898979
+    ],
+    "tokens": [
+      " however",
+      ",",
+      " the",
+      " impact",
+      " of"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 9,
+    "punct": "period",
+    "prompt": "Privacy concerns are growing worldwide.",
+    "entropies": [
+      2.270959460903469,
+      2.2586847273970814,
+      2.492569459323738,
+      0.12309096070120229,
+      0.18670311162299774
+    ],
+    "tokens": [
+      " In",
+      " the",
+      " United",
+      " States",
+      ","
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 9,
+    "punct": "comma",
+    "prompt": "Privacy concerns are growing worldwide,",
+    "entropies": [
+      2.1140238920851218,
+      2.104805752426823,
+      1.7284317773990592,
+      0.5169007502792473,
+      1.822141852731052
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " European",
+      " Union",
+      "'s"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 10,
+    "punct": "em_dash",
+    "prompt": "The political landscape is shifting—",
+    "entropies": [
+      1.3739882903911247,
+      2.4621275463953243,
+      0.902536801853848,
+      0.9772424300698457,
+      0.42967938396795236
+    ],
+    "tokens": [
+      "what",
+      " does",
+      " that",
+      " mean",
+      " for"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 10,
+    "punct": "colon",
+    "prompt": "The political landscape is shifting:",
+    "entropies": [
+      1.7418108960442116,
+      1.5661188174699396,
+      0.06262495652801157,
+      1.8974792477741902,
+      1.8753983220020716
+    ],
+    "tokens": [
+      " the",
+      " rise",
+      " of",
+      " the",
+      " '"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 10,
+    "punct": "semicolon",
+    "prompt": "The political landscape is shifting;",
+    "entropies": [
+      1.6784254354982047,
+      1.4760155387657345,
+      0.07725756196634453,
+      1.5156290638116148,
+      1.7409918429132631
+    ],
+    "tokens": [
+      " the",
+      " era",
+      " of",
+      " the",
+      " \""
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 10,
+    "punct": "period",
+    "prompt": "The political landscape is shifting.",
+    "entropies": [
+      1.9967797991388754,
+      1.2564419161162979,
+      0.1055773467803288,
+      2.2274392504380516,
+      2.2118814113029805
+    ],
+    "tokens": [
+      " The",
+      " rise",
+      " of",
+      " the",
+      " internet"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 10,
+    "punct": "comma",
+    "prompt": "The political landscape is shifting,",
+    "entropies": [
+      1.1739203883260556,
+      1.9851760554046396,
+      1.2225783488564497,
+      1.672967632404003,
+      1.723626778714655
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " question",
+      " is",
+      ":"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 11,
+    "punct": "em_dash",
+    "prompt": "Scientific breakthroughs continue to accelerate—",
+    "entropies": [
+      2.1011945055135777,
+      2.3766269077399373,
+      0.9348744934511517,
+      2.241741961013794,
+      1.2293304935168192
+    ],
+    "tokens": [
+      "so",
+      " fast",
+      " that",
+      " it",
+      "'s"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 11,
+    "punct": "colon",
+    "prompt": "Scientific breakthroughs continue to accelerate:",
+    "entropies": [
+      2.1714952627503923,
+      1.6319622616366567,
+      0.4247466200919978,
+      0.004827421024482219,
+      0.9958002462057564
+    ],
+    "tokens": [
+      " in",
+      " ",
+      "2",
+      "0",
+      "1"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 11,
+    "punct": "semicolon",
+    "prompt": "Scientific breakthroughs continue to accelerate;",
+    "entropies": [
+      2.3145766668397982,
+      0.03791792478619502,
+      2.24287216527949,
+      1.6932742170851243,
+      0.24426744179856133
+    ],
+    "tokens": [
+      " however",
+      ",",
+      " the",
+      " translation",
+      " of"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 11,
+    "punct": "period",
+    "prompt": "Scientific breakthroughs continue to accelerate.",
+    "entropies": [
+      2.336292826418101,
+      1.8617171143598337,
+      1.9361997977552627,
+      2.264046722113537,
+      1.0467855218901991
+    ],
+    "tokens": [
+      " In",
+      " the",
+      " past",
+      " few",
+      " years"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 11,
+    "punct": "comma",
+    "prompt": "Scientific breakthroughs continue to accelerate,",
+    "entropies": [
+      2.4165689151289325,
+      2.339995448516003,
+      1.7417269310183578,
+      0.8458859010013706,
+      2.195071359330523
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " pace",
+      " of",
+      " innovation"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 12,
+    "punct": "em_dash",
+    "prompt": "Global trade patterns are changing—",
+    "entropies": [
+      2.1635841460310754,
+      2.3867225985076272,
+      1.482360616552638,
+      1.021864787503548,
+      1.372630711756166
+    ],
+    "tokens": [
+      "more",
+      " than",
+      " ever",
+      " before",
+      "."
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 12,
+    "punct": "colon",
+    "prompt": "Global trade patterns are changing:",
+    "entropies": [
+      1.9691010569373633,
+      1.9472699591977158,
+      0.11114008125211966,
+      2.2759826319905305,
+      2.466746998193002
+    ],
+    "tokens": [
+      " the",
+      " rise",
+      " of",
+      " the",
+      " middle"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 12,
+    "punct": "semicolon",
+    "prompt": "Global trade patterns are changing;",
+    "entropies": [
+      2.0283576642786727,
+      1.7269761579234888,
+      0.10619357916985744,
+      2.238060681044923,
+      1.3647675823575391
+    ],
+    "tokens": [
+      " the",
+      " rise",
+      " of",
+      " China",
+      " and"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 12,
+    "punct": "period",
+    "prompt": "Global trade patterns are changing.",
+    "entropies": [
+      2.228425235460635,
+      1.795247625718615,
+      0.08809679133481221,
+      2.2298181035271063,
+      1.407837503274291
+    ],
+    "tokens": [
+      " The",
+      " rise",
+      " of",
+      " China",
+      " and"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 12,
+    "punct": "comma",
+    "prompt": "Global trade patterns are changing,",
+    "entropies": [
+      1.861894816356439,
+      1.9809196480549667,
+      1.7562349410306262,
+      0.26627410064607815,
+      1.2774700807543276
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " United",
+      " States",
+      " is"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 13,
+    "punct": "em_dash",
+    "prompt": "Urban planning faces new constraints—",
+    "entropies": [
+      1.8955008439390606,
+      0.26421198310012883,
+      1.4702565053058418,
+      2.2254524818135026,
+      0.6865267071755642
+    ],
+    "tokens": [
+      "climate",
+      " change",
+      ",",
+      " population",
+      " growth"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 13,
+    "punct": "colon",
+    "prompt": "Urban planning faces new constraints:",
+    "entropies": [
+      1.8967392441353415,
+      1.8288225894502652,
+      0.4505925794824541,
+      2.4080877429400163,
+      2.1744279514945557
+    ],
+    "tokens": [
+      " the",
+      " need",
+      " to",
+      " reduce",
+      " carbon"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 13,
+    "punct": "semicolon",
+    "prompt": "Urban planning faces new constraints;",
+    "entropies": [
+      1.932780401232637,
+      1.5465217538503573,
+      0.5724772576213231,
+      2.3828247933694864,
+      2.2218080741680737
+    ],
+    "tokens": [
+      " the",
+      " need",
+      " to",
+      " reduce",
+      " carbon"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 13,
+    "punct": "period",
+    "prompt": "Urban planning faces new constraints.",
+    "entropies": [
+      2.1203121393760163,
+      1.6333796078221812,
+      2.3372866236707908,
+      0.10691650477785539,
+      1.8985530962927588
+    ],
+    "tokens": [
+      " The",
+      " rapid",
+      " expansion",
+      " of",
+      " cities"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 13,
+    "punct": "comma",
+    "prompt": "Urban planning faces new constraints,",
+    "entropies": [
+      2.556091152866879,
+      1.8448384243816345,
+      1.4928030598279871,
+      2.2577729437848513,
+      2.2426206503713955
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " city",
+      " is",
+      " no"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 14,
+    "punct": "em_dash",
+    "prompt": "The energy transition is underway—",
+    "entropies": [
+      1.7614329426771995,
+      0.010595618773129346,
+      0.3777668185899326,
+      2.106467451701196,
+      1.9039910441738805
+    ],
+    "tokens": [
+      "dr",
+      "iven",
+      " by",
+      " the",
+      " need"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 14,
+    "punct": "colon",
+    "prompt": "The energy transition is underway:",
+    "entropies": [
+      2.0942483862876116,
+      1.7482769312493542,
+      0.47526298999426947,
+      1.5159958240714408,
+      1.209878946065462
+    ],
+    "tokens": [
+      " the",
+      " world",
+      " is",
+      " moving",
+      " away"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 14,
+    "punct": "semicolon",
+    "prompt": "The energy transition is underway;",
+    "entropies": [
+      2.1651036966713058,
+      1.8121328387249318,
+      0.6824616846062126,
+      1.6044320906551974,
+      1.4144681455743815
+    ],
+    "tokens": [
+      " the",
+      " world",
+      " is",
+      " moving",
+      " away"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 14,
+    "punct": "period",
+    "prompt": "The energy transition is underway.",
+    "entropies": [
+      2.1948216349306824,
+      1.8552184596535348,
+      0.987472471672049,
+      1.6607728128330954,
+      1.2883600054583355
+    ],
+    "tokens": [
+      " The",
+      " world",
+      " is",
+      " moving",
+      " away"
+    ]
+  },
+  {
+    "model": "qwen3-8b-base",
+    "ctx_idx": 14,
+    "punct": "comma",
+    "prompt": "The energy transition is underway,",
+    "entropies": [
+      1.6544339191063888,
+      2.053028270837985,
+      1.8936535142619477,
+      1.0736842586383986,
+      2.4230144748384137
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " world",
+      " is",
+      " moving"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 0,
+    "punct": "em_dash",
+    "prompt": "The technology has evolved significantly—",
+    "entropies": [
+      2.3076539616111917,
+      2.112286824092138,
+      2.4853542230546553,
+      2.031081304084995,
+      1.4941910599213188
+    ],
+    "tokens": [
+      "from",
+      " the",
+      " first",
+      " generation",
+      " of"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 0,
+    "punct": "colon",
+    "prompt": "The technology has evolved significantly:",
+    "entropies": [
+      2.474867885863995,
+      1.950113929451404,
+      2.3049712448168598,
+      2.0237603166697706,
+      1.681824315041646
+    ],
+    "tokens": [
+      " from",
+      " the",
+      " first",
+      " generation",
+      " of"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 0,
+    "punct": "semicolon",
+    "prompt": "The technology has evolved significantly;",
+    "entropies": [
+      2.5280990737371503,
+      0.28636478945486027,
+      2.1118545530702963,
+      2.0412395860337873,
+      2.3863517251082795
+    ],
+    "tokens": [
+      " however",
+      ",",
+      " the",
+      " basic",
+      " principle"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 0,
+    "punct": "period",
+    "prompt": "The technology has evolved significantly.",
+    "entropies": [
+      2.511880882727909,
+      2.067058398346883,
+      2.226370485380802,
+      1.2780386506849548,
+      2.2732154050393887
+    ],
+    "tokens": [
+      " The",
+      " first",
+      " generation",
+      " of",
+      " the"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 0,
+    "punct": "comma",
+    "prompt": "The technology has evolved significantly,",
+    "entropies": [
+      2.0163032119366187,
+      2.497962189032021,
+      2.0828367449720537,
+      2.3607272783841724,
+      0.8428551802822883
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " latest",
+      " generation",
+      " of"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 1,
+    "punct": "em_dash",
+    "prompt": "AI systems are becoming more capable—",
+    "entropies": [
+      1.902422457673617,
+      2.028841024805407,
+      2.5557805961886477,
+      1.0196095827664584,
+      0.8507759888610457
+    ],
+    "tokens": [
+      "and",
+      " more",
+      " widely",
+      " used",
+      "—"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 1,
+    "punct": "colon",
+    "prompt": "AI systems are becoming more capable:",
+    "entropies": [
+      2.052578529234297,
+      1.6622605654040519,
+      2.4434810793953896,
+      2.4929914159568987,
+      2.3412783580320156
+    ],
+    "tokens": [
+      " they",
+      " can",
+      " now",
+      " generate",
+      " text"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 1,
+    "punct": "semicolon",
+    "prompt": "AI systems are becoming more capable;",
+    "entropies": [
+      2.345066055877308,
+      0.23101108874543824,
+      2.2781922348581456,
+      2.209883650656349,
+      2.2113676179684294
+    ],
+    "tokens": [
+      " however",
+      ",",
+      " they",
+      " are",
+      " still"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 1,
+    "punct": "period",
+    "prompt": "AI systems are becoming more capable.",
+    "entropies": [
+      2.489419617650073,
+      1.9172092070838078,
+      2.5267528681003624,
+      1.9565415324738127,
+      1.6555225301879293
+    ],
+    "tokens": [
+      " They",
+      " are",
+      " being",
+      " used",
+      " in"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 1,
+    "punct": "comma",
+    "prompt": "AI systems are becoming more capable,",
+    "entropies": [
+      2.2133579102570784,
+      2.4125581978559683,
+      2.3289171869929186,
+      1.871450512528045,
+      2.41144878841127
+    ],
+    "tokens": [
+      " but",
+      " they",
+      " are",
+      " still",
+      " far"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 2,
+    "punct": "em_dash",
+    "prompt": "The economic implications are profound—",
+    "entropies": [
+      2.447712755577033,
+      2.285360967808538,
+      2.0422930961829846,
+      1.5295581204826558,
+      1.4615124005047295
+    ],
+    "tokens": [
+      "and",
+      " the",
+      " stakes",
+      " are",
+      " high"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 2,
+    "punct": "colon",
+    "prompt": "The economic implications are profound:",
+    "entropies": [
+      2.3823695937122236,
+      2.217399691183715,
+      2.542507201507142,
+      2.368485089240467,
+      1.7655570486555945
+    ],
+    "tokens": [
+      " the",
+      " US",
+      " is",
+      " the",
+      " world"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 2,
+    "punct": "semicolon",
+    "prompt": "The economic implications are profound;",
+    "entropies": [
+      2.315964986146441,
+      2.1740015893341136,
+      2.177351817410212,
+      1.785291463154328,
+      2.303919915093807
+    ],
+    "tokens": [
+      " the",
+      " social",
+      " implications",
+      " are",
+      " even"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 2,
+    "punct": "period",
+    "prompt": "The economic implications are profound.",
+    "entropies": [
+      2.2888662586126722,
+      2.166956482892175,
+      1.5347262746396453,
+      0.1950058975746032,
+      1.1032202250451528
+    ],
+    "tokens": [
+      "\n\n",
+      "The",
+      " economic",
+      " implications",
+      " are"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 2,
+    "punct": "comma",
+    "prompt": "The economic implications are profound,",
+    "entropies": [
+      2.4777216055420386,
+      2.00520126548448,
+      2.2357299632129988,
+      1.325491507784726,
+      2.408810010464496
+    ],
+    "tokens": [
+      " with",
+      " the",
+      " potential",
+      " to",
+      " reshape"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 3,
+    "punct": "em_dash",
+    "prompt": "Climate change poses unprecedented challenges—",
+    "entropies": [
+      2.288056338145008,
+      1.3643929679560654,
+      0.36151865256547605,
+      0.9430976335771818,
+      2.1595999438775912
+    ],
+    "tokens": [
+      "and",
+      " opportunities",
+      "—",
+      "for",
+      " the"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 3,
+    "punct": "colon",
+    "prompt": "Climate change poses unprecedented challenges:",
+    "entropies": [
+      2.4072297385902877,
+      2.243529097754261,
+      2.0880848642522487,
+      2.521999619082246,
+      1.951766435548376
+    ],
+    "tokens": [
+      " the",
+      " world",
+      " is",
+      " warming",
+      ","
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 3,
+    "punct": "semicolon",
+    "prompt": "Climate change poses unprecedented challenges;",
+    "entropies": [
+      2.406497688327468,
+      2.2579740555505667,
+      2.355947948784439,
+      2.21784450852119,
+      2.1679523413306567
+    ],
+    "tokens": [
+      " it",
+      " is",
+      " a",
+      " global",
+      " problem"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 3,
+    "punct": "period",
+    "prompt": "Climate change poses unprecedented challenges.",
+    "entropies": [
+      2.4130487016183335,
+      2.156288417646003,
+      2.179374131999498,
+      2.6209944587013334,
+      2.2109095420848024
+    ],
+    "tokens": [
+      " The",
+      " world",
+      " is",
+      " already",
+      " experiencing"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 3,
+    "punct": "comma",
+    "prompt": "Climate change poses unprecedented challenges,",
+    "entropies": [
+      2.645479082681236,
+      2.1876974701870764,
+      2.132240327927513,
+      0.6111264625837445,
+      2.5914647072640853
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " need",
+      " for",
+      " sustainable"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 4,
+    "punct": "em_dash",
+    "prompt": "Education systems worldwide are adapting—",
+    "entropies": [
+      2.2778501193176166,
+      2.4076919675871182,
+      1.1185834850836622,
+      0.4733055128533292,
+      2.040945991974504
+    ],
+    "tokens": [
+      "and",
+      " in",
+      " some",
+      " cases",
+      ","
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 4,
+    "punct": "colon",
+    "prompt": "Education systems worldwide are adapting:",
+    "entropies": [
+      2.3417021831568303,
+      1.5462988478721416,
+      2.2118745222125975,
+      1.2575681420522096,
+      2.4667396067704286
+    ],
+    "tokens": [
+      " they",
+      " are",
+      " becoming",
+      " more",
+      " flexible"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 4,
+    "punct": "semicolon",
+    "prompt": "Education systems worldwide are adapting;",
+    "entropies": [
+      2.375344792550405,
+      2.1514848489134035,
+      2.485641205965329,
+      2.378519433754023,
+      2.486361969906143
+    ],
+    "tokens": [
+      " the",
+      " traditional",
+      " classroom",
+      " is",
+      " no"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 4,
+    "punct": "period",
+    "prompt": "Education systems worldwide are adapting.",
+    "entropies": [
+      2.3843122019662824,
+      2.1776395087620752,
+      0.3074263381107729,
+      0.02509286162838968,
+      0.002733716853571217
+    ],
+    "tokens": [
+      " The",
+      " COVID",
+      "-",
+      "1",
+      "9"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 4,
+    "punct": "comma",
+    "prompt": "Education systems worldwide are adapting,",
+    "entropies": [
+      2.3279497900750785,
+      2.3324435045077125,
+      2.138949729700071,
+      0.7045145582862178,
+      2.303129398066589
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " need",
+      " for",
+      " a"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 5,
+    "punct": "em_dash",
+    "prompt": "The healthcare industry faces new demands—",
+    "entropies": [
+      2.3523762777728487,
+      2.341445983525216,
+      2.1666485946223792,
+      0.5677471763647541,
+      2.2210440024027664
+    ],
+    "tokens": [
+      "from",
+      " the",
+      " need",
+      " to",
+      " improve"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 5,
+    "punct": "colon",
+    "prompt": "The healthcare industry faces new demands:",
+    "entropies": [
+      2.309230642620623,
+      2.1501781280464725,
+      0.6796711744414115,
+      2.2820316708968194,
+      2.4041696359116136
+    ],
+    "tokens": [
+      " the",
+      " need",
+      " to",
+      " improve",
+      " the"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 5,
+    "punct": "semicolon",
+    "prompt": "The healthcare industry faces new demands;",
+    "entropies": [
+      2.192531461854,
+      2.0120556682695088,
+      0.750547256365679,
+      2.275795725178473,
+      2.479508950331727
+    ],
+    "tokens": [
+      " the",
+      " need",
+      " to",
+      " provide",
+      " better"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 5,
+    "punct": "period",
+    "prompt": "The healthcare industry faces new demands.",
+    "entropies": [
+      2.2946264108073278,
+      2.0625588553962575,
+      0.8036387274485934,
+      2.350535838307448,
+      2.4457518341832674
+    ],
+    "tokens": [
+      " The",
+      " need",
+      " for",
+      " more",
+      " efficient"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 5,
+    "punct": "comma",
+    "prompt": "The healthcare industry faces new demands,",
+    "entropies": [
+      2.5937629812124188,
+      2.3501980518707937,
+      2.013298744392341,
+      0.7702016330100728,
+      2.2245962913527944
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " need",
+      " for",
+      " a"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 6,
+    "punct": "em_dash",
+    "prompt": "Social media has transformed communication—",
+    "entropies": [
+      2.386258291574787,
+      2.4648901371752983,
+      1.7917192658294612,
+      2.0375681561953063,
+      2.4649990225338
+    ],
+    "tokens": [
+      "and",
+      " the",
+      " way",
+      " we",
+      " do"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 6,
+    "punct": "colon",
+    "prompt": "Social media has transformed communication:",
+    "entropies": [
+      2.3790438266663907,
+      1.9966536984953809,
+      2.430259527159166,
+      1.1163132806037301,
+      0.7479828855050837
+    ],
+    "tokens": [
+      " it",
+      " has",
+      " changed",
+      " the",
+      " way"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 6,
+    "punct": "semicolon",
+    "prompt": "Social media has transformed communication;",
+    "entropies": [
+      2.1269975620562716,
+      1.7142127831155223,
+      2.527161801156183,
+      1.0684958869688617,
+      0.7462379023939647
+    ],
+    "tokens": [
+      " it",
+      " has",
+      " changed",
+      " the",
+      " way"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 6,
+    "punct": "period",
+    "prompt": "Social media has transformed communication.",
+    "entropies": [
+      2.330610156847355,
+      1.8234483018502345,
+      2.564428073653597,
+      2.3202427030107455,
+      2.0918666351084783
+    ],
+    "tokens": [
+      " It",
+      " has",
+      " also",
+      " transformed",
+      " the"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 6,
+    "punct": "comma",
+    "prompt": "Social media has transformed communication,",
+    "entropies": [
+      2.4736258951276,
+      2.4742054128156017,
+      1.9588847590605412,
+      2.373802865573614,
+      2.4252078023976433
+    ],
+    "tokens": [
+      " and",
+      " it",
+      " has",
+      " also",
+      " transformed"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 7,
+    "punct": "em_dash",
+    "prompt": "Quantum computing represents a paradigm shift—",
+    "entropies": [
+      2.1104974238859775,
+      2.3367969190941036,
+      1.9574365247230372,
+      0.6449659522760374,
+      2.3586755722144614
+    ],
+    "tokens": [
+      "a",
+      " new",
+      " way",
+      " of",
+      " thinking"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 7,
+    "punct": "colon",
+    "prompt": "Quantum computing represents a paradigm shift:",
+    "entropies": [
+      2.415845016434169,
+      2.498706928210629,
+      2.245774553841989,
+      2.3039195509980273,
+      2.3218590503597714
+    ],
+    "tokens": [
+      " it",
+      " is",
+      " a",
+      " new",
+      " way"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 7,
+    "punct": "semicolon",
+    "prompt": "Quantum computing represents a paradigm shift;",
+    "entropies": [
+      2.2709775865651918,
+      2.3784715813611843,
+      2.1833819481788073,
+      2.3243946171033407,
+      2.2844219379058703
+    ],
+    "tokens": [
+      " it",
+      " is",
+      " a",
+      " new",
+      " way"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 7,
+    "punct": "period",
+    "prompt": "Quantum computing represents a paradigm shift.",
+    "entropies": [
+      2.4060207060130696,
+      2.447773644622514,
+      2.206715770118255,
+      2.2709138517713474,
+      2.4190301306771844
+    ],
+    "tokens": [
+      " It",
+      " is",
+      " a",
+      " new",
+      " way"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 7,
+    "punct": "comma",
+    "prompt": "Quantum computing represents a paradigm shift,",
+    "entropies": [
+      2.5078586392036417,
+      2.1312216361115577,
+      2.027382908424633,
+      1.7006856517339788,
+      1.5984401700474988
+    ],
+    "tokens": [
+      " promising",
+      " to",
+      " solve",
+      " problems",
+      " that"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 8,
+    "punct": "em_dash",
+    "prompt": "Remote work has reshaped the workforce—",
+    "entropies": [
+      1.7590969335134394,
+      2.2423910216365166,
+      2.315957103848978,
+      2.2092692649691132,
+      2.374542894302129
+    ],
+    "tokens": [
+      "and",
+      " the",
+      " way",
+      " we",
+      " think"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 8,
+    "punct": "colon",
+    "prompt": "Remote work has reshaped the workforce:",
+    "entropies": [
+      2.2325269929615907,
+      2.280672828675999,
+      2.4797168330959405,
+      0.8062684019823712,
+      0.2550279727383161
+    ],
+    "tokens": [
+      " ",
+      "4",
+      "0",
+      "%",
+      " of"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 8,
+    "punct": "semicolon",
+    "prompt": "Remote work has reshaped the workforce;",
+    "entropies": [
+      2.5148450153510367,
+      1.7378857327947619,
+      0.005904452937509691,
+      2.555326128511697,
+      0.5443111058785897
+    ],
+    "tokens": [
+      " it",
+      "’",
+      "s",
+      " no",
+      " longer"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 8,
+    "punct": "period",
+    "prompt": "Remote work has reshaped the workforce.",
+    "entropies": [
+      2.572013093633108,
+      2.4425895172227796,
+      2.328068507144934,
+      2.430130526685701,
+      2.503538241254856
+    ],
+    "tokens": [
+      "\n\n",
+      "The",
+      " pandemic",
+      " forced",
+      " many"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 8,
+    "punct": "comma",
+    "prompt": "Remote work has reshaped the workforce,",
+    "entropies": [
+      2.450161149303559,
+      2.5934605998509976,
+      1.9031881962441504,
+      0.012840204919927892,
+      2.2712079034894557
+    ],
+    "tokens": [
+      " and",
+      " it",
+      "’",
+      "s",
+      " here"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 9,
+    "punct": "em_dash",
+    "prompt": "Privacy concerns are growing worldwide—",
+    "entropies": [
+      2.2080518945033263,
+      2.5225136532075965,
+      0.3881328111579297,
+      0.1423151648390927,
+      0.5162862114500305
+    ],
+    "tokens": [
+      "and",
+      " for",
+      " good",
+      " reason",
+      "."
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 9,
+    "punct": "colon",
+    "prompt": "Privacy concerns are growing worldwide:",
+    "entropies": [
+      2.3662093374072892,
+      2.082209284877188,
+      2.2994676209416505,
+      0.7178722669296599,
+      0.21472226519576834
+    ],
+    "tokens": [
+      " ",
+      "8",
+      "7",
+      "%",
+      " of"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 9,
+    "punct": "semicolon",
+    "prompt": "Privacy concerns are growing worldwide;",
+    "entropies": [
+      2.437136890420681,
+      0.16426868158942384,
+      2.5032709538389892,
+      1.8994775090033569,
+      2.422863598258903
+    ],
+    "tokens": [
+      " however",
+      ",",
+      " the",
+      " privacy",
+      " concerns"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 9,
+    "punct": "period",
+    "prompt": "Privacy concerns are growing worldwide.",
+    "entropies": [
+      2.408768651659684,
+      2.1720100135642193,
+      0.9044501456090559,
+      2.2994228397441265,
+      0.0030600316950264717
+    ],
+    "tokens": [
+      " The",
+      " European",
+      " Union",
+      "’",
+      "s"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 9,
+    "punct": "comma",
+    "prompt": "Privacy concerns are growing worldwide,",
+    "entropies": [
+      2.1350080266846785,
+      2.411891254292379,
+      2.308840967237578,
+      0.6891388112609742,
+      2.071597895563469
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " European",
+      " Union",
+      " has"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 10,
+    "punct": "em_dash",
+    "prompt": "The political landscape is shifting—",
+    "entropies": [
+      1.9643096592265354,
+      2.585479746165257,
+      1.357761877200693,
+      0.010459925306941828,
+      2.4820812080116528
+    ],
+    "tokens": [
+      "and",
+      " it",
+      "’",
+      "s",
+      " not"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 10,
+    "punct": "colon",
+    "prompt": "The political landscape is shifting:",
+    "entropies": [
+      2.255831477498604,
+      2.0204876301523425,
+      0.2653981106730826,
+      2.4507240090470033,
+      2.3077002619704126
+    ],
+    "tokens": [
+      " the",
+      " rise",
+      " of",
+      " the",
+      " far"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 10,
+    "punct": "semicolon",
+    "prompt": "The political landscape is shifting;",
+    "entropies": [
+      2.2922763128911807,
+      1.8907669200617594,
+      1.6567923663472544,
+      2.083138272075541,
+      1.750936996722529
+    ],
+    "tokens": [
+      " the",
+      " world",
+      " is",
+      " changing",
+      "."
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 10,
+    "punct": "period",
+    "prompt": "The political landscape is shifting.",
+    "entropies": [
+      2.4128580635446557,
+      2.04208337895989,
+      0.9270056267836608,
+      0.16607178087466146,
+      0.9136089195732788
+    ],
+    "tokens": [
+      " The",
+      " ",
+      "2",
+      "0",
+      "1"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 10,
+    "punct": "comma",
+    "prompt": "The political landscape is shifting,",
+    "entropies": [
+      1.5347175212432917,
+      2.330720290160129,
+      2.069566747489735,
+      0.8044966743787076,
+      0.1098519640694787
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " ",
+      "2",
+      "0"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 11,
+    "punct": "em_dash",
+    "prompt": "Scientific breakthroughs continue to accelerate—",
+    "entropies": [
+      2.1168133799121427,
+      2.363773655691857,
+      1.4504257008027661,
+      1.1380740250982764,
+      2.2332563944224173
+    ],
+    "tokens": [
+      "and",
+      " so",
+      " does",
+      " the",
+      " need"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 11,
+    "punct": "colon",
+    "prompt": "Scientific breakthroughs continue to accelerate:",
+    "entropies": [
+      2.4682871843552943,
+      2.4561929044005484,
+      2.227636213964537,
+      1.929204704785297,
+      2.477823953220152
+    ],
+    "tokens": [
+      " the",
+      " first",
+      " gene",
+      " therapy",
+      " for"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 11,
+    "punct": "semicolon",
+    "prompt": "Scientific breakthroughs continue to accelerate;",
+    "entropies": [
+      2.3960645510007206,
+      2.226906077219677,
+      0.8233163123414582,
+      2.3251224595903452,
+      1.7754178693741265
+    ],
+    "tokens": [
+      " the",
+      " pace",
+      " of",
+      " change",
+      " is"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 11,
+    "punct": "period",
+    "prompt": "Scientific breakthroughs continue to accelerate.",
+    "entropies": [
+      2.381021255010134,
+      2.142240056082999,
+      0.9056875781172641,
+      2.4049027327784955,
+      1.8143341179193389
+    ],
+    "tokens": [
+      " The",
+      " pace",
+      " of",
+      " change",
+      " is"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 11,
+    "punct": "comma",
+    "prompt": "Scientific breakthroughs continue to accelerate,",
+    "entropies": [
+      2.2163654866037317,
+      2.3196126593929973,
+      2.0967492739726623,
+      1.009482390420542,
+      2.3041106561744824
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " pace",
+      " of",
+      " change"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 12,
+    "punct": "em_dash",
+    "prompt": "Global trade patterns are changing—",
+    "entropies": [
+      1.6610757184260523,
+      2.543245268549103,
+      2.3142525347233156,
+      0.11576036791707446,
+      2.1209832990137167
+    ],
+    "tokens": [
+      "and",
+      " the",
+      " United",
+      " States",
+      " is"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 12,
+    "punct": "colon",
+    "prompt": "Global trade patterns are changing:",
+    "entropies": [
+      2.1954555072238096,
+      2.3038463402639993,
+      0.13606795023170146,
+      1.9483791217510382,
+      2.449783195047466
+    ],
+    "tokens": [
+      " the",
+      " United",
+      " States",
+      " is",
+      " becoming"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 12,
+    "punct": "semicolon",
+    "prompt": "Global trade patterns are changing;",
+    "entropies": [
+      2.200585529691624,
+      2.1636454980636053,
+      1.723732699703465,
+      2.37279258326808,
+      1.7883263426756693
+    ],
+    "tokens": [
+      " the",
+      " world",
+      " is",
+      " becoming",
+      " more"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 12,
+    "punct": "period",
+    "prompt": "Global trade patterns are changing.",
+    "entropies": [
+      2.2286260161387292,
+      2.255533349111845,
+      0.17043492501259816,
+      2.122561691692121,
+      2.357599239175741
+    ],
+    "tokens": [
+      " The",
+      " United",
+      " States",
+      " is",
+      " no"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 12,
+    "punct": "comma",
+    "prompt": "Global trade patterns are changing,",
+    "entropies": [
+      1.9756545768851301,
+      2.2638611095211467,
+      2.212857870474662,
+      0.18357203336754646,
+      2.0829778354715405
+    ],
+    "tokens": [
+      " and",
+      " the",
+      " United",
+      " States",
+      " is"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 13,
+    "punct": "em_dash",
+    "prompt": "Urban planning faces new constraints—",
+    "entropies": [
+      2.4089655420940557,
+      2.0147443204637105,
+      0.6943162710415166,
+      2.260134864198548,
+      2.4455207608954
+    ],
+    "tokens": [
+      "the",
+      " need",
+      " to",
+      " reduce",
+      " greenhouse"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 13,
+    "punct": "colon",
+    "prompt": "Urban planning faces new constraints:",
+    "entropies": [
+      2.3152093342299636,
+      2.2638768225536836,
+      0.662579870275125,
+      2.298571002013097,
+      2.3671597274506366
+    ],
+    "tokens": [
+      " the",
+      " need",
+      " to",
+      " reduce",
+      " the"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 13,
+    "punct": "semicolon",
+    "prompt": "Urban planning faces new constraints;",
+    "entropies": [
+      2.25283343753627,
+      2.0076626097362444,
+      0.7960382594876461,
+      2.2910056934049305,
+      2.376956183887124
+    ],
+    "tokens": [
+      " the",
+      " need",
+      " to",
+      " reduce",
+      " the"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 13,
+    "punct": "period",
+    "prompt": "Urban planning faces new constraints.",
+    "entropies": [
+      2.253032814515627,
+      2.04059830181156,
+      2.227818725075889,
+      2.5319174890387215,
+      0.08699488585137921
+    ],
+    "tokens": [
+      " The",
+      " city",
+      " is",
+      " no",
+      " longer"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 13,
+    "punct": "comma",
+    "prompt": "Urban planning faces new constraints,",
+    "entropies": [
+      2.672665259374825,
+      0.016137599616973926,
+      2.2024499958986117,
+      2.2561080864380525,
+      0.6315617426566841
+    ],
+    "tokens": [
+      " such",
+      " as",
+      " the",
+      " need",
+      " to"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 14,
+    "punct": "em_dash",
+    "prompt": "The energy transition is underway—",
+    "entropies": [
+      1.7612909327759931,
+      2.1357290575860897,
+      1.6125547826456264,
+      0.018675682256087796,
+      2.365656258994871
+    ],
+    "tokens": [
+      "and",
+      " it",
+      "’",
+      "s",
+      " happening"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 14,
+    "punct": "colon",
+    "prompt": "The energy transition is underway:",
+    "entropies": [
+      2.1927269603666173,
+      2.223653057683686,
+      1.5688315396960715,
+      2.273482079545931,
+      1.738323600514613
+    ],
+    "tokens": [
+      " the",
+      " world",
+      " is",
+      " moving",
+      " away"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 14,
+    "punct": "semicolon",
+    "prompt": "The energy transition is underway;",
+    "entropies": [
+      2.3437986592428586,
+      2.1421284262476297,
+      1.0676388483228498,
+      2.1788541005666824,
+      2.3882540208019107
+    ],
+    "tokens": [
+      " the",
+      " question",
+      " is",
+      " how",
+      " fast"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 14,
+    "punct": "period",
+    "prompt": "The energy transition is underway.",
+    "entropies": [
+      2.40824441668947,
+      2.0980514326847963,
+      1.7102209003670157,
+      2.2949657087896695,
+      1.923181170675838
+    ],
+    "tokens": [
+      " The",
+      " world",
+      " is",
+      " moving",
+      " away"
+    ]
+  },
+  {
+    "model": "gemma3-27b-base",
+    "ctx_idx": 14,
+    "punct": "comma",
+    "prompt": "The energy transition is underway,",
+    "entropies": [
+      1.5543760348609241,
+      2.191569173558359,
+      1.9989003619527008,
+      0.02771210724771189,
+      2.3516288628668294
+    ],
+    "tokens": [
+      " and",
+      " it",
+      "’",
+      "s",
+      " happening"
+    ]
+  }
+]

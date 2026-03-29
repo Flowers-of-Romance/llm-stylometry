@@ -1,0 +1,90 @@
+{
+  "ultrafeedback": {
+    "em_dash": {
+      "chosen": 0.028142634933114436,
+      "rejected": 0.02604754440323634,
+      "p": 0.1424746419098694,
+      "direction": "chosen>"
+    },
+    "dash_total": {
+      "chosen": 0.1251155481685899,
+      "rejected": 0.10645784072985434,
+      "p": 0.0001576030957065084,
+      "direction": "chosen>"
+    },
+    "colon": {
+      "chosen": 25.547807072736255,
+      "rejected": 22.25831725691602,
+      "p": 1.8589652561991047e-24,
+      "direction": "chosen>"
+    },
+    "semicolon": {
+      "chosen": 2.5463389469970577,
+      "rejected": 2.5574012760198066,
+      "p": 0.17092738337173397,
+      "direction": "rejected>"
+    },
+    "bullet": {
+      "chosen": 3.585598026260263,
+      "rejected": 3.153310839514367,
+      "p": 0.003477864570404808,
+      "direction": "chosen>"
+    },
+    "markdown_heading": {
+      "chosen": 0.3559875955024306,
+      "rejected": 0.3519412928342067,
+      "p": 0.5908239824274091,
+      "direction": "chosen>"
+    },
+    "bold": {
+      "chosen": 0.6365217877822114,
+      "rejected": 0.49375090980160313,
+      "p": 0.005749767262974227,
+      "direction": "chosen>"
+    }
+  },
+  "tulu3": {
+    "em_dash": {
+      "chosen": 0.2628691068131291,
+      "rejected": 0.557519576839327,
+      "p": 0.9961345277027449,
+      "direction": "rejected>"
+    },
+    "dash_total": {
+      "chosen": 0.39119168594259923,
+      "rejected": 0.6480047005038189,
+      "p": 0.25147312888185747,
+      "direction": "rejected>"
+    },
+    "colon": {
+      "chosen": 32.95524741791751,
+      "rejected": 31.544464768280044,
+      "p": 7.582825317521201e-16,
+      "direction": "chosen>"
+    },
+    "semicolon": {
+      "chosen": 3.8548183605897197,
+      "rejected": 3.6040979408801848,
+      "p": 0.9018437754185868,
+      "direction": "chosen>"
+    },
+    "bullet": {
+      "chosen": 15.086867359527774,
+      "rejected": 14.950618775875142,
+      "p": 2.21743128450568e-20,
+      "direction": "chosen>"
+    },
+    "markdown_heading": {
+      "chosen": 1.0133441376903725,
+      "rejected": 0.7845784582152312,
+      "p": 1.1137920472019518e-13,
+      "direction": "chosen>"
+    },
+    "bold": {
+      "chosen": 6.257171621590085,
+      "rejected": 4.248506469084333,
+      "p": 1.848866643083001e-43,
+      "direction": "chosen>"
+    }
+  }
+}
