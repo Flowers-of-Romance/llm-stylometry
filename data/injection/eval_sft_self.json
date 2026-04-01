@@ -1,0 +1,802 @@
+[
+  {
+    "prompt": "Write a short essay about the future of artificial intelligence.",
+    "run": 0,
+    "text": "The field of artificial intelligence (AI) has come a long way since its inception in the 1950s. Today, AI is an integral part of our daily lives — from voice assistants like Siri and Alexa to self-driving cars and predictive analytics used by businesses.\n\nOne of the most exciting developments in AI is machine learning — which allows machines to learn from data without being explicitly programmed. This technology enables computers to recognize patterns and make predictions based on that information — making them more efficient and effective at tasks such as image recognition, natural language processing, and decision-making.\n\nAnother area where AI is seeing significant progress is robotics. Robots powered by AI can now perform complex tasks with human-like precision — including surgery, manufacturing, and even household chores like cleaning and cooking.\n\nHowever, there are also concerns surrounding the ethical implications of AI — particularly when it comes to job displacement due to automation or bias in algorithmic decisions. As AI becomes increasingly integrated into everyday life, it's essential that we develop guidelines for responsible use and ensure that these technologies serve humanity rather than replace it entirely.\n\nOverall, while there are certainly challenges ahead, the potential benefits of AI are undeniable. With continued research and development, I believe we'll see even greater advancements in this rapidly evolving field over the coming years.",
+    "markers": {
+      "em_dash": 5,
+      "en_dash": 0,
+      "dash_total": 5,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 224
+    }
+  },
+  {
+    "prompt": "Write a short essay about the future of artificial intelligence.",
+    "run": 1,
+    "text": "The field of artificial intelligence (AI) has come a long way since its inception in the 1950s. With advancements in technology and data availability, AI is now more capable than ever before — allowing us to solve complex problems that were once thought impossible.\n\nOne area where AI will continue to make significant progress is healthcare. AI-powered diagnostics tools can help doctors detect diseases earlier and with greater accuracy than traditional methods. This could lead to better patient outcomes and reduced costs associated with unnecessary procedures or treatments.\n\nAnother promising application of AI lies in transportation. Self-driving cars have already begun testing on public roads, and it's likely that they'll become mainstream within the next few years. Autonomous vehicles not only reduce traffic accidents but also improve efficiency by reducing congestion.\n\nIn addition to these applications, AI will play an increasingly important role in areas such as finance, manufacturing, education, and customer service. By analyzing vast amounts of data at lightning-fast speeds, AI can provide personalized recommendations and solutions tailored to individual needs.\n\nHowever, there are also concerns surrounding the ethical implications of widespread adoption of AI. For example, issues around privacy, bias, and job displacement need to be addressed carefully. It's crucial for researchers and policymakers alike to consider these factors when developing new technologies powered by AI.\n\nOverall, while there are certainly challenges ahead, I believe that the potential benefits of AI far outweigh any drawbacks. As we continue to push boundaries in this exciting field, it's essential that we approach AI development responsibly and eth",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 258
+    }
+  },
+  {
+    "prompt": "Write a short essay about the future of artificial intelligence.",
+    "run": 2,
+    "text": "Artificial Intelligence (AI) has been rapidly advancing in recent years, transforming various aspects of our lives—from healthcare to transportation and beyond. As we look towards the future, several trends and developments can help shape how AI will evolve.\n\nOne key trend is increasing automation across industries driven by machine learning algorithms that improve decision-making processes through pattern recognition and prediction models. This not only enhances efficiency but also reduces human error rates significantly. However, along with these benefits come concerns about job displacement — particularly for low-skilled labor jobs requiring repetitive tasks.\n\nAnother significant development is the integration of AI into everyday consumer devices such as smart homes equipped with voice assistants like Amazon’s Alexa or Google Home. These technologies allow users to control home appliances remotely using simple commands while providing convenience and security enhancements.\n\nFurthermore, advancements in natural language processing (NLP) enable more sophisticated interactions between humans and machines. NLP enables chatbots to understand complex queries, making customer service more efficient without compromising on quality. Moreover, this technology could potentially lead to personalized recommendations based on individual preferences — revolutionizing online shopping experiences.\n\nHowever, there are challenges associated with global distribution of resources needed for developing advanced AI systems — including computing power required for training large neural networks. Additionally, ethical considerations surrounding privacy rights and bias detection must be addressed carefully to ensure equitable access to technological advancements.\n\nIn conclusion, while the future looks promising with numerous opportunities brought forth by AI, it's essential to navigate responsibly through potential pitfalls. Continued research investments focusing on addressing societal impacts alongside",
+    "markers": {
+      "em_dash": 4,
+      "en_dash": 0,
+      "dash_total": 4,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 262
+    }
+  },
+  {
+    "prompt": "Write a short essay about the future of artificial intelligence.",
+    "run": 3,
+    "text": "Artificial Intelligence (AI) is rapidly advancing and transforming various aspects of our lives — from healthcare to transportation to entertainment. As we look towards the future, it's clear that AI will continue to play an increasingly important role in shaping society.\n\nOne area where AI is expected to have a significant impact is in areas related to automation and productivity. With advances in machine learning algorithms and natural language processing techniques, robots and autonomous vehicles may become more capable at performing tasks traditionally done by humans — such as manufacturing or delivery services. This could lead to increased efficiency and reduced costs for businesses across multiple industries.\n\nAnother potential application of AI is in improving patient care through personalized medicine approaches. By analyzing large amounts of medical data using advanced analytics tools, doctors can identify patterns and trends that would otherwise be difficult to detect manually. This information could help tailor treatment plans specifically to individual patients' needs — potentially leading to better outcomes and lower rates of hospitalization.\n\nAdditionally, AI has the potential to revolutionize education by providing customized learning experiences for students based on their unique strengths and weaknesses. Intelligent tutoring systems powered by machine learning can adapt content delivery to suit each learner's pace and comprehension level — ensuring they receive exactly what they need to succeed academically.\n\nHowever, there are also concerns surrounding the ethical implications of widespread adoption of these technologies. Issues like privacy violations, job displacement due to automation, and bias in algorithmic decision-making processes must be addressed carefully if we want to harness the full benefits of AI while minimizing its negative consequences",
+    "markers": {
+      "em_dash": 4,
+      "en_dash": 0,
+      "dash_total": 4,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 270
+    }
+  },
+  {
+    "prompt": "Write a short essay about the future of artificial intelligence.",
+    "run": 4,
+    "text": "The field of artificial intelligence (AI) has been advancing at an unprecedented pace over the past few decades. From early attempts to create simple programs that could perform specific tasks — such as playing chess or recognizing speech — to today's sophisticated systems capable of complex decision-making and autonomous action.\n\nOne potential direction for AI in the future is its integration into everyday life. As technology continues to evolve, we may see more advanced forms of automation that can handle routine tasks without human intervention. This could lead to significant improvements in productivity and efficiency across various industries — from manufacturing and logistics to healthcare and finance.\n\nAnother area where AI could make a big impact is in areas related to personalization and customization. With advancements in machine learning algorithms and big data analytics, it will become increasingly possible for devices like smartphones, smart homes, and even wearable technologies to offer highly personalized experiences based on individual preferences and behavior patterns.\n\nIn addition, there is also growing interest in using AI for ethical purposes such as improving education systems, combating misinformation online, and enhancing security measures against cyber threats. However, along with these promising applications come challenges associated with issues surrounding privacy, bias, transparency, accountability, and employment displacement caused by automation.\n\nOverall, while there remain many uncertainties around how exactly AI will develop in coming years, one thing is clear: it holds great promise for transforming numerous aspects of modern society if properly harnessed through thoughtful implementation and regulation.",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 1,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 249
+    }
+  },
+  {
+    "prompt": "Write a short essay about recent changes in the global economy.",
+    "run": 0,
+    "text": "The global economy has undergone significant transformations over the past few years due to various factors such as technological advancements, geopolitical events, and shifts in consumer behavior.\n\nOne of the most notable changes is the rise of digitalization — which has revolutionized how businesses operate globally. The shift towards e-commerce platforms like Amazon and Alibaba's Tmall has transformed traditional retail industries into online marketplaces where consumers can buy products from anywhere in the world at any time.\n\nAnother major development is the growth of automation and artificial intelligence (AI). Companies across multiple sectors have implemented these technologies to improve efficiency, reduce costs, and enhance customer experience. For example, auto manufacturers use AI algorithms to optimize production lines and predict maintenance needs for vehicles.\n\nGeopolitical tensions also play a crucial role in shaping全球经济。例如，中美贸易争端导致了全球供应链的不稳定性和价格波动。此外， Brexit 和其他国家退出欧盟等事件也对国际贸易产生了影响。\n\n随着环境意识的增强，可持续发展成为全球经济的一个重要议题。越来越多的企业开始关注其生产过程中的环境影响，并采取措施减少碳排放和使用可再生能源。政府也在制定相关政策来鼓励绿色经济的发展。\n\n尽管存在挑战，但全球化仍然是推动经济增长的重要动力之一。通过加强国际合作、促进知识和技术转移以及优化资源配置等方式，各国可以更好地应对当前形势下的机遇与挑战。同时，持续提升劳动者技能水平，确保公平竞争环境，也是实现长期繁荣的关键所在。",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 136
+    }
+  },
+  {
+    "prompt": "Write a short essay about recent changes in the global economy.",
+    "run": 1,
+    "text": "The global economy has undergone significant changes over the past few years due to various factors such as technological advancements, geopolitical events, and pandemics.\n\nOne of the most notable developments is the rise of e-commerce — which has transformed traditional retail industries worldwide. Online shopping has become increasingly popular among consumers who prefer convenience and ease of access to products from anywhere at any time. This trend has led many brick-and-mortar stores to close down or reduce their physical presence in favor of digital platforms.\n\nAnother major shift is seen in trade relations between countries — particularly those involving China and its neighboring regions. The ongoing tensions surrounding issues like intellectual property theft and forced technology transfers have made it difficult for businesses to operate smoothly across borders. As a result, there has been an increased focus on building stronger partnerships based on mutual respect and cooperation rather than competition.\n\nIn addition to these broader trends, local economies within individual nations also face unique challenges and opportunities specific to their contexts. For example, some emerging markets continue to grow rapidly despite facing obstacles related to infrastructure development and political instability. Meanwhile, developed nations may experience slower growth rates but still maintain high levels of innovation and productivity.\n\nOverall, while the global economy remains complex and multifaceted, ongoing changes highlight the need for continued adaptation and innovation if companies hope to thrive in this constantly evolving landscape.",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 236
+    }
+  },
+  {
+    "prompt": "Write a short essay about recent changes in the global economy.",
+    "run": 2,
+    "text": "The global economy has undergone significant changes over the past few years due to various factors such as technological advancements, geopolitical tensions, and pandemics.\n\nOne of the most notable changes is the rise of digitalization — which has transformed many industries worldwide. For example, e-commerce platforms like Amazon have become increasingly popular among consumers, while fintech companies like PayPal and Square have disrupted traditional banking services.\n\nAnother major shift is the growing importance of renewable energy sources. Governments around the world are implementing policies aimed at reducing greenhouse gas emissions and transitioning away from fossil fuels towards cleaner alternatives like solar power and wind energy.\n\nIn terms of geopolitics, there has been increased competition between major powers for influence in regions like Europe, Asia Pacific, and Africa. This has led to heightened tensions and conflicts, particularly regarding territorial disputes and trade agreements.\n\nFinally, the COVID-19 pandemic has had a profound impact on全球经济。它导致了供应链中断、劳动力短缺以及经济增长放缓等问题。然而，它也促使人们重新思考健康与安全的重要性，并推动了许多行业采用远程工作和数字化解决方案来应对挑战。\n\n总体来看，尽管面临诸多挑战，但全球化仍然是不可逆转的趋势。各国需要加强合作，共同应对全球性问题，以实现可持续发展。同时，也需要关注弱势群体的需求，确保所有人都能从中受益。",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 153
+    }
+  },
+  {
+    "prompt": "Write a short essay about recent changes in the global economy.",
+    "run": 3,
+    "text": "The global economy has undergone significant changes over the past few years due to various factors such as technological advancements, geopolitical tensions, and pandemics.\n\nOne of the most notable trends is the shift towards digitalization and automation — which has transformed many industries worldwide. For instance, e-commerce platforms like Amazon have become increasingly popular, allowing consumers to purchase goods online without leaving their homes. This trend has also led to job losses in certain sectors while creating new opportunities for those who possess skills related to technology.\n\nAnother factor driving change is climate change — which has impacted agriculture, energy production, and other key sectors globally. Rising temperatures and changing weather patterns pose challenges to food security and threaten natural resources such as water and soil quality. Governments around the world are now implementing policies aimed at reducing greenhouse gas emissions and transitioning towards renewable energy sources.\n\nGeopolitical tensions between major powers continue to affect trade relations and investment decisions. The United States' withdrawal from the Trans-Pacific Partnership (TPP) agreement demonstrates how economic partnerships can be disrupted by international conflicts. Similarly, Russia's invasion of Ukraine has caused uncertainty regarding future supply chains and markets for commodities like oil and gas.\n\nLastly, the COVID-19 pandemic has had far-reaching consequences on the global economy — disrupting supply chains, causing lockdowns and closures, and leading to massive unemployment rates. However, it also accelerated efforts toward vaccine distribution and recovery initiatives that aim to restore normalcy and growth.\n\nIn conclusion, the global economy is undergoing rapid transformations driven by technological progress, environmental",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 258
+    }
+  },
+  {
+    "prompt": "Write a short essay about recent changes in the global economy.",
+    "run": 4,
+    "text": "The global economy has undergone significant changes over the past few years due to various factors such as technological advancements, geopolitical tensions, and shifts in consumer behavior.\n\nOne of the most notable developments is the rise of digitalization — which has transformed many industries including finance, retail, and manufacturing. This trend has led to increased automation and artificial intelligence adoption — resulting in productivity gains but also job displacement for some workers.\n\nAnother major change is the increasing importance of sustainability — with governments and businesses alike recognizing the need to reduce carbon emissions and promote environmentally friendly practices. This shift towards green technologies and renewable energy sources represents a paradigmatic shift in how we approach economic growth and development.\n\nGeopolitical instability continues to pose challenges to international trade and investment flows. The ongoing conflict between Russia and Ukraine has disrupted supply chains and affected commodity prices worldwide — highlighting the vulnerabilities inherent in globalization.\n\nMoreover, demographic trends like aging populations and changing family structures have begun reshaping labor markets globally — leading to potential workforce shortages or surpluses depending on country-specific circumstances.\n\nFinally, climate change remains one of the most pressing issues facing our planet today — impacting agriculture, water resources, and ecosystems across multiple continents. Addressing these challenges will require coordinated efforts from policymakers at all levels to implement sustainable policies and transition away from fossil fuels while promoting innovation in clean technology solutions.\n\nIn conclusion, while there are undoubtedly difficulties ahead related to these transformations, it's crucial that nations work together to navigate through this complex landscape — leveraging their strengths while mitigating risks associated with",
+    "markers": {
+      "em_dash": 7,
+      "en_dash": 0,
+      "dash_total": 7,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 269
+    }
+  },
+  {
+    "prompt": "Write a short essay about the challenges of climate change.",
+    "run": 0,
+    "text": "Climate change is one of the most pressing issues facing our planet today. It refers to long-term changes in temperature patterns and weather conditions that have been caused primarily by human activities such as burning fossil fuels for energy.\n\nOne of the biggest challenges posed by climate change is its impact on global food security. Rising temperatures can lead to reduced crop yields — particularly in regions where agriculture has traditionally thrived. This not only affects individual farmers but also impacts entire economies dependent on these crops. Additionally, changing precipitation patterns may disrupt water supplies essential for irrigation and drinking.\n\nAnother significant challenge is the displacement of populations due to rising sea levels and extreme weather events like hurricanes or droughts. Millions of people worldwide already live in areas at risk from coastal flooding and storm surges — increasing pressure on resources such as housing, healthcare services, and infrastructure.\n\nMoreover, climate change exacerbates existing social inequalities. Low-income communities often lack access to protective measures against natural disasters and environmental degradation. As these risks become more severe, they put additional strain on already strained public services and resources.\n\nLastly, addressing climate change requires substantial investments in renewable energy sources and technological innovations. However, transitioning away from carbon-intensive industries will require significant shifts in consumer behavior and policy decisions — which present their own set of challenges.\n\nIn conclusion, while there are many challenges associated with combating climate change, it is crucial that we prioritize action now if we hope to mitigate its effects and create a sustainable future for all generations. By working together towards reducing greenhouse gas emissions and adapting",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 270
+    }
+  },
+  {
+    "prompt": "Write a short essay about the challenges of climate change.",
+    "run": 1,
+    "text": "Climate change is one of the most pressing issues facing our planet today. It refers to long-term changes in temperature and weather patterns that have been caused primarily by human activities such as burning fossil fuels for energy.\n\nOne of the biggest challenges posed by climate change is its unpredictability. The effects of global warming can vary greatly depending on factors like location, altitude, and time period — making it difficult to predict exactly how much temperatures will rise or what kind of extreme weather events might occur.\n\nAnother challenge is the economic impact of addressing climate change. Transitioning away from traditional sources of energy like coal and oil requires significant investment in renewable technologies and infrastructure upgrades. This can lead to job losses in industries reliant on these resources while creating new opportunities in green sectors like solar power and wind energy.\n\nMoreover, climate change disproportionately affects vulnerable populations who lack access to resources needed to adapt to changing conditions. Low-income communities often face higher risks due to inadequate housing, lack of insurance coverage against natural disasters, and limited access to healthcare services during emergencies.\n\nFinally, international cooperation remains essential but complex when dealing with climate change. Different countries have varying levels of responsibility for greenhouse gas emissions based on their historical contributions and current emissions rates. Achieving consensus among nations regarding policies and commitments related to reducing carbon footprints presents considerable obstacles.\n\nIn conclusion, tackling climate change poses numerous challenges across multiple fronts — including scientific uncertainty around future impacts, financial costs associated with transitioning towards sustainable practices, socioeconomic disparities within affected regions, and geopolitical tensions surrounding global governance frameworks",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 272
+    }
+  },
+  {
+    "prompt": "Write a short essay about the challenges of climate change.",
+    "run": 2,
+    "text": "Climate change is one of the most pressing issues facing our planet today. It refers to long-term changes in temperature and weather patterns that have been caused primarily by human activities such as burning fossil fuels for energy.\n\nOne major challenge posed by climate change is its unpredictability. The effects of global warming — including more frequent extreme weather events like hurricanes, droughts, floods, and wildfires — can be difficult to predict with precision. This makes it challenging for governments and organizations to develop effective strategies to mitigate these impacts.\n\nAnother significant challenge is the lack of international cooperation on addressing climate change. Despite growing awareness among countries about the need to reduce greenhouse gas emissions and transition to renewable energy sources, there remains considerable disagreement over how best to achieve this goal. Many nations argue that developing countries should bear some responsibility for reducing their own carbon footprints while allowing developed ones to continue emitting at high levels.\n\nAdditionally, the economic costs associated with adapting to or mitigating the effects of climate change pose another hurdle. Investing heavily in new infrastructure designed to withstand extreme weather events could strain already strained budgets. Moreover, transitioning away from traditional industries reliant on fossil fuels may lead to job losses and economic disruptions.\n\nFinally, educating people about the reality of climate change and encouraging them to take action requires overcoming skepticism and misinformation surrounding this issue. Public perception plays a crucial role in shaping policy decisions related to environmental protection.\n\nIn conclusion, while progress has been made regarding climate change mitigation efforts globally, numerous challenges remain. Addressing these requires concerted international collaboration,",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 270
+    }
+  },
+  {
+    "prompt": "Write a short essay about the challenges of climate change.",
+    "run": 3,
+    "text": "Climate change is one of the most pressing issues facing our planet today. It refers to long-term changes in temperature and weather patterns that have been caused by human activities such as burning fossil fuels for energy.\n\nOne of the biggest challenges posed by climate change is its impact on global ecosystems. Changes in temperature can lead to shifts in plant growth cycles, altered animal behavior, and even extinction of certain species. This disruption can have far-reaching consequences for biodiversity and food security around the world.\n\nAnother challenge is adapting to these changing conditions — which often requires significant investments in infrastructure and technology. For example, coastal cities may need to build higher walls or move entire neighborhoods inland as sea levels rise. Similarly, farmers could face reduced crop yields due to droughts or floods — forcing them to find new ways to produce food sustainably.\n\nFurthermore, climate change exacerbates existing social inequalities. Poor communities who already lack access to resources may be disproportionately affected by extreme weather events like hurricanes or wildfires. This creates tension between different groups within society and highlights the need for equitable policies addressing climate impacts.\n\nLastly, international cooperation remains crucial in tackling this global issue. Without concerted efforts from governments worldwide, any solutions will fall short. However, progress has been made through agreements like the Paris Accord, which set targets for reducing greenhouse gas emissions globally. Nonetheless, much more needs to be done if we hope to limit the worst effects of climate change.\n\nIn conclusion, while there are certainly challenges associated with combating climate change, it is essential to recognize both",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 268
+    }
+  },
+  {
+    "prompt": "Write a short essay about the challenges of climate change.",
+    "run": 4,
+    "text": "Climate change is one of the most pressing global issues facing our planet today. It refers to long-term changes in temperature and weather patterns that can have significant impacts on ecosystems, economies, and human societies.\n\nOne of the main challenges associated with climate change is its complexity — it involves multiple factors such as greenhouse gas emissions from burning fossil fuels, deforestation, industrial processes, agriculture, and natural phenomena like volcanic eruptions or solar radiation variations. These factors interact in complex ways to drive climate change over time scales ranging from decades to millennia.\n\nAnother challenge is the lack of agreement among countries regarding how best to address this issue. While many nations recognize the need for action — including reducing carbon emissions and transitioning to renewable energy sources — there is often disagreement over what specific policies should be implemented or how quickly they should be adopted.\n\nFurthermore, climate change has far-reaching consequences that affect not only environmental health but also social stability and economic development. For example, extreme weather events like hurricanes, droughts, floods, and wildfires cause damage to infrastructure, loss of life, displacement of people, and disruption of livelihoods — all of which can lead to conflicts and migration.\n\nAdditionally, climate change disproportionately affects vulnerable populations who may already face discrimination, poverty, or other disadvantages — making them more susceptible to its effects. This includes marginalized communities such as indigenous peoples, women, children, and those living in low-lying coastal areas.\n\nFinally, addressing climate change requires significant investment in technology, research, education, and policy reform across multiple",
+    "markers": {
+      "em_dash": 5,
+      "en_dash": 0,
+      "dash_total": 5,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 258
+    }
+  },
+  {
+    "prompt": "Write a short essay about the development of quantum computing.",
+    "run": 0,
+    "text": "Quantum computing is an emerging field that has been rapidly advancing in recent years due to its potential for solving complex problems faster than classical computers can. The concept behind quantum computing was first introduced by physicist Richard Feynman in 1982 when he proposed using quantum mechanics principles to perform calculations more efficiently than traditional binary systems.\n\nSince then, researchers have made significant progress in developing practical quantum computers capable of executing specific tasks such as cryptography, optimization, and machine learning algorithms — all while maintaining their ability to process large amounts of data simultaneously. One key advantage of quantum computing over classical computing is its use of superposition — where particles can exist in multiple states at once until measured — allowing them to represent vast numbers of possibilities simultaneously.\n\nAnother important aspect of quantum computing is entanglement — which allows pairs of particles to be linked together regardless of distance between them. This property enables faster communication between qubits (quantum bits) and makes it possible to perform certain operations much more quickly than with classical computers.\n\nHowever, there are still challenges facing the development of practical quantum computers. One major obstacle is noise interference from environmental factors like heat or electromagnetic fields, which can disrupt delicate quantum states and cause errors in computations. Additionally, error correction techniques are needed to maintain accuracy despite these disruptions.\n\nDespite these difficulties, many experts believe that quantum computing will eventually revolutionize various industries including medicine, finance, transportation, and energy storage — potentially leading to breakthroughs in areas ranging from drug discovery to climate modeling. As technology",
+    "markers": {
+      "em_dash": 5,
+      "en_dash": 0,
+      "dash_total": 5,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 264
+    }
+  },
+  {
+    "prompt": "Write a short essay about the development of quantum computing.",
+    "run": 1,
+    "text": "Quantum computing is an emerging field that has been developing rapidly over the past few decades. It represents a significant advancement in computer science and technology because it allows for processing information at speeds far beyond what traditional computers can achieve.\n\nThe concept of quantum computing was first introduced in the 1980s when physicist Richard Feynman proposed using quantum mechanics principles to perform calculations more efficiently than classical computers could. Since then, researchers have made considerable progress in creating working prototypes of these devices.\n\nOne key aspect of quantum computing is its use of qubits — which are similar to bits used in classical computing but also exhibit properties such as superposition and entanglement. This means that multiple qubits can exist simultaneously in multiple states at once, allowing them to process vast amounts of data much faster than their classical counterparts.\n\nAnother important feature of quantum computing is its ability to simulate complex systems accurately without needing large-scale physical setups like those required for conventional simulations. For example, scientists have already used quantum computers to model chemical reactions with unprecedented accuracy, leading to breakthroughs in fields ranging from materials science to drug discovery.\n\nDespite its promise, however, there remain challenges associated with building practical quantum computers. These include maintaining coherence between qubits over long periods (known as decoherence), controlling interactions among many qubits simultaneously (which requires advanced error correction techniques), and scaling up hardware so that they can handle real-world applications effectively.\n\nIn conclusion, while quantum computing still faces numerous hurdles before becoming widely adopted, its potential impact on",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 259
+    }
+  },
+  {
+    "prompt": "Write a short essay about the development of quantum computing.",
+    "run": 2,
+    "text": "Quantum computing is an emerging field that leverages the principles of quantum mechanics to perform calculations and process information in ways that classical computers cannot achieve. The concept has been around for decades but gained significant traction only recently due to advancements in technology.\n\nThe basic idea behind quantum computing is based on superposition — the ability of qubits (quantum bits) to exist simultaneously in multiple states until measured. This allows quantum computers to solve complex problems much faster than traditional computers using binary digits (bits).\n\nIn 1980, physicist Richard Feynman proposed the idea of building a universal quantum computer as part of his research into molecular physics. Later, physicist David Deutsch expanded on this concept further, introducing the term \"universal gate array\" which later evolved into what we now know as quantum gates — fundamental operations used within quantum circuits.\n\nOver time, researchers have made progress in creating smaller-scale versions of these devices. In 2009, IBM scientists successfully demonstrated a small-scale quantum processor capable of performing rudimentary logical operations. Since then, numerous other companies and institutions worldwide have invested heavily in developing more advanced hardware.\n\nOne notable breakthrough came in 2020 when Google claimed its Sycamore processor could complete certain tasks 10 billion times faster than any existing classical computer. However, critics argue that such claims may be premature given current limitations in error rates and scalability.\n\nDespite these challenges, many experts remain optimistic about the future potential of quantum computing. They believe it holds promise for",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 248
+    }
+  },
+  {
+    "prompt": "Write a short essay about the development of quantum computing.",
+    "run": 3,
+    "text": "Quantum computing is an emerging field that has gained significant attention in recent years due to its potential to revolutionize various fields such as cryptography, optimization problems, and artificial intelligence.\n\nThe concept behind quantum computing was first introduced in the 1980s when Richard Feynman proposed using quantum-mechanical phenomena like superposition and entanglement for computation purposes. However, it wasn't until the late 20th century that researchers began developing practical implementations of these ideas.\n\nOne of the key challenges facing quantum computing is maintaining coherence — meaning keeping qubits (quantum bits) in a state where they can perform calculations indefinitely without losing information or interacting with their environment. To address this issue, scientists have developed several techniques such as error correction codes and decoherence-free subspaces.\n\nAnother important aspect of quantum computing is scaling up from small-scale prototypes to larger systems capable of handling more complex tasks efficiently. This requires overcoming technical hurdles related to controlling large numbers of interacting particles at high temperatures and pressures typical of room temperature environments.\n\nDespite these challenges, progress has been made in creating rudimentary quantum computers. IBM has demonstrated a 53-qubit processor while Google claims to have achieved \"quantum supremacy\" with a 72-qubit machine. These advances represent significant milestones towards realizing scalable quantum computing capabilities.\n\nIn conclusion, the development of quantum computing represents a fascinating intersection between physics theory and technological innovation. As research continues to advance our understanding of quantum mechanics and engineering solutions to overcome current limitations,",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 243
+    }
+  },
+  {
+    "prompt": "Write a short essay about the development of quantum computing.",
+    "run": 4,
+    "text": "Quantum computing is an emerging field that has been developing rapidly in recent years. It involves using qubits — which can exist in multiple states simultaneously — to perform complex calculations much faster than traditional computers.\n\nThe concept behind quantum computing was first proposed by physicist Richard Feynman in 1982 as a way to solve problems that were too difficult for classical computers. Since then, researchers have made significant progress in building working prototypes and exploring potential applications.\n\nOne key advantage of quantum computing is its ability to process information at extremely high speeds due to the unique properties of superposition and entanglement. These phenomena allow qubits to represent both 0 and 1 simultaneously until they are measured, enabling parallel processing of many possibilities at once.\n\nAnother important aspect of quantum computing is error correction. Traditional computers use error-checking algorithms to detect and correct errors during computation. However, these methods become increasingly inefficient with larger numbers of qubits. Quantum error correction codes offer more robust protection against noise and decoherence — allowing quantum computers to function reliably even under challenging conditions.\n\nThere are several types of quantum architectures currently being developed:\n\n• NISQ (Noisy Intermediate-Scale Quantum) systems — designed for near-term practical use cases where performance degrades slowly over time.\n• Fully fault-tolerant quantum computers — capable of performing arbitrary computations without errors or mistakes — though still very far from realization today.\n\nDespite ongoing challenges such as scalability issues and technological limitations, there is growing enthusiasm among scientists and engineers worldwide regarding",
+    "markers": {
+      "em_dash": 6,
+      "en_dash": 0,
+      "dash_total": 6,
+      "colon": 1,
+      "semicolon": 0,
+      "bullet": 2,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 253
+    }
+  },
+  {
+    "prompt": "Write a short essay about how modern education systems are changing.",
+    "run": 0,
+    "text": "The traditional model of education has been around for centuries and it's still prevalent today in many parts of the world. However, with advances in technology and globalization, modern educational systems are constantly evolving to meet new challenges and opportunities.\n\nOne key change is that learning is becoming more personalized — students can now choose their own path through school based on their interests and abilities. This approach allows teachers to tailor instruction to individual needs rather than following a one-size-fits-all curriculum.\n\nAnother trend is the increased use of technology in classrooms — from laptops and tablets to online courses and virtual reality simulations. These tools enable interactive learning experiences that engage students' senses and promote critical thinking skills.\n\nFurthermore, global interconnectedness means that students need to develop international perspectives and collaborate across borders. Therefore, many schools now incorporate multicultural curricula and encourage extracurricular activities that expose students to diverse cultures and languages.\n\nAdditionally, there's growing emphasis on soft skills such as creativity, problem-solving, and communication — which were traditionally not emphasized enough in traditional education models. Employers increasingly value these attributes when hiring employees.\n\nFinally, sustainability also plays an important role in shaping contemporary educational practices — particularly regarding environmental awareness and action plans within schools.\n\nIn conclusion, while traditional approaches remain relevant, modern education systems must adapt rapidly to stay competitive globally. By embracing innovation, flexibility, and inclusivity, educators can ensure that future generations acquire the knowledge, skills, and values necessary for success in an ever-changing world.",
+    "markers": {
+      "em_dash": 4,
+      "en_dash": 0,
+      "dash_total": 4,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 249
+    }
+  },
+  {
+    "prompt": "Write a short essay about how modern education systems are changing.",
+    "run": 1,
+    "text": "The modern educational system has undergone significant changes over the past few decades due to advances in technology and shifting societal values.\n\nOne of the most notable transformations is the shift towards online learning platforms such as Coursera, Udemy, and Khan Academy. These platforms offer courses from top universities around the world for free or at a low cost, making higher education more accessible than ever before. Additionally, there's been an increase in blended learning — where traditional classroom instruction is combined with online resources and activities.\n\nAnother major change is the focus on personalized learning experiences. With the help of artificial intelligence (AI) algorithms, educators can tailor lessons to individual students' needs and abilities. This approach allows teachers to provide more targeted support while also freeing up time for them to work one-on-one with struggling learners.\n\nIn terms of curriculum development, many schools now incorporate project-based learning instead of rote memorization. Students engage in real-world problem-solving exercises that require critical thinking skills and teamwork. This type of teaching method helps prepare young people for the challenges they'll face in today's rapidly evolving job market.\n\nFurthermore, there's growing emphasis on social-emotional learning (SEL). SEL programs aim to develop students' emotional intelligence — including self-awareness, empathy, and conflict resolution skills. By focusing on these areas, schools hope to create well-rounded individuals who can navigate life's complexities effectively.\n\nLastly, global connectivity means that international exchange programs have become increasingly popular. These opportunities allow students to study abroad, participate in internships",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 248
+    }
+  },
+  {
+    "prompt": "Write a short essay about how modern education systems are changing.",
+    "run": 2,
+    "text": "The traditional model of education has been around for centuries and remains largely unchanged in many parts of the world today. However, with rapid technological advancements and shifting societal needs, modern educational institutions must adapt to new realities if they want to remain relevant.\n\nOne major trend driving these changes is an increased focus on personalized learning experiences — where students receive tailored instruction based on their individual strengths, weaknesses, interests, and pace of learning. This approach aims to address the diverse needs of today's learners while promoting greater engagement and motivation among participants.\n\nAnother significant development is the integration of technology into classrooms — including online platforms, virtual reality simulations, artificial intelligence-powered tutoring tools, and other digital resources that enhance accessibility, interactivity, and effectiveness. These technologies enable educators to deliver content more efficiently, provide real-time feedback, and foster collaborative environments conducive to innovation and creativity.\n\nMoreover, there's growing emphasis on experiential learning — which involves hands-on activities, projects, field trips, guest speakers, and other immersive opportunities designed to help students apply theoretical knowledge to practical situations outside the classroom setting. By doing so, students develop critical thinking skills, problem-solving abilities, and soft skills necessary for success beyond academia.\n\nAdditionally, sustainability becomes increasingly important as environmental concerns become more pressing globally. Many schools now incorporate green initiatives such as recycling programs, energy-efficient equipment, renewable energy sources, and sustainable agriculture practices into their curricula to prepare future generations for responsible stewardship of our planet.\n\nIn conclusion, while some aspects of modern education may seem",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 253
+    }
+  },
+  {
+    "prompt": "Write a short essay about how modern education systems are changing.",
+    "run": 3,
+    "text": "Modern education systems have undergone significant changes over the past few decades due to technological advancements and shifting societal priorities.\n\nOne major trend is the move towards more personalized learning experiences. With the widespread use of technology, educators can now tailor instruction to individual student needs — providing additional support when needed while challenging those who demonstrate advanced skills.\n\nAnother notable shift involves integrating digital tools into traditional classrooms. This includes using interactive whiteboards, online quizzes, educational apps, and virtual reality simulations to enhance engagement and deepen understanding across various subjects.\n\nAdditionally, there's an increasing emphasis on critical thinking, problem-solving, and creativity in today’s curriculum — skills that become increasingly valuable as society evolves rapidly. Schools are also focusing more on experiential learning opportunities such as internships, field trips, and service projects outside of regular academic classes.\n\nMoreover, globalization has led many countries to adopt international benchmarks for their education standards — ensuring graduates possess global competencies relevant to future careers both domestically and internationally.\n\nFinally, there's been growing recognition among policymakers and educators alike regarding mental health concerns within schools — resulting in initiatives aimed at creating supportive environments where students feel safe and encouraged to express themselves freely without fear of judgment or discrimination.\n\nIn conclusion, these evolving trends reflect broader shifts happening globally — including demographic changes, economic developments, cultural transformations, and technological innovations impacting every aspect of life from work to leisure activities. As we continue navigating through this complex landscape, it will be essential for educators worldwide to adapt continuously — leveraging new technologies responsibly while maintaining high-quality ped",
+    "markers": {
+      "em_dash": 6,
+      "en_dash": 0,
+      "dash_total": 6,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 264
+    }
+  },
+  {
+    "prompt": "Write a short essay about how modern education systems are changing.",
+    "run": 4,
+    "text": "Modern educational systems have undergone significant transformations in recent years due to advances in technology and shifting societal values.\n\nOne major change is the increasing emphasis on personalized learning experiences. With the rise of digital tools such as adaptive software and artificial intelligence algorithms, educators can now tailor instruction to meet individual students' needs — whether they require extra support or advanced challenges. This approach allows for more effective use of resources and promotes engagement among learners who may struggle with traditional lecture-based methods.\n\nAnother notable shift involves integrating real-world applications into curricula. In today's rapidly evolving world, preparing students for careers requires them to develop critical thinking skills, problem-solving abilities, and technical competencies that translate directly into practical scenarios outside school walls. Therefore, incorporating project-based learning activities, internships, and experiential learning opportunities has become increasingly important — helping students apply theoretical knowledge gained from textbooks and lectures to solve complex problems faced by professionals in various industries.\n\nMoreover, global connectivity through online platforms enables students worldwide access to high-quality educational content previously unavailable locally. This democratizes education — making it possible for people living in remote areas or those facing economic barriers to obtain quality academic training regardless of geographical limitations.\n\nFinally, sustainability efforts within schools reflect broader environmental consciousness spreading throughout society. Efforts include recycling programs, energy conservation measures, eco-friendly furniture choices, and green transportation options — all aimed at creating healthier environments conducive to student well-being while reducing carbon footprints associated with conventional practices.\n\nIn conclusion, these changes highlight how contemporary educational institutions must evolve alongside",
+    "markers": {
+      "em_dash": 4,
+      "en_dash": 0,
+      "dash_total": 4,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 259
+    }
+  },
+  {
+    "prompt": "Write a short essay about the relationship between technology and privacy.",
+    "run": 0,
+    "text": "The relationship between technology and privacy has become increasingly complex in recent years. On one hand, technology has revolutionized many aspects of our daily lives — from communication to entertainment to healthcare.\n\nFor example, social media platforms like Facebook allow people to connect with others worldwide instantly through text messages or video calls. Similarly, online shopping websites provide convenient access to products from all over the world without leaving home.\n\nHowever, these advancements also come with potential risks related to personal data security. Companies collect vast amounts of information about individuals' browsing habits, purchasing behavior, location data, etc., which can be used for targeted advertising or malicious purposes such as identity theft or fraud prevention.\n\nMoreover, governments around the globe have implemented various surveillance measures aimed at maintaining national security or preventing terrorist activities. While this may seem necessary for public safety reasons, it raises concerns regarding individual freedoms and civil liberties.\n\nIn conclusion, while technology undoubtedly brings numerous benefits, it is crucial to strike a balance between innovation and protection of citizens' privacy rights. Governments must establish clear guidelines for how they use collected data while ensuring that users retain control over their own information. Individuals should also take proactive steps towards safeguarding their digital footprint, including using strong passwords, enabling two-factor authentication, and being cautious when sharing sensitive personal details online.",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 223
+    }
+  },
+  {
+    "prompt": "Write a short essay about the relationship between technology and privacy.",
+    "run": 1,
+    "text": "The relationship between technology and privacy is complex and multifaceted. On one hand, technology has revolutionized our lives in countless ways — making communication easier than ever before, providing access to information at our fingertips, and enabling new forms of entertainment and commerce.\n\nHowever, this same technology also raises significant concerns about individual privacy. With advances in surveillance technologies like facial recognition software and internet-of-things devices collecting vast amounts of personal data without consent, people feel increasingly vulnerable to being tracked or monitored in ways they never dreamed possible just decades ago.\n\nDespite these challenges, it's important not to dismiss the potential benefits that technology can bring when used responsibly. For example, blockchain technology could help protect user data from theft or misuse — while artificial intelligence systems might be able to analyze large datasets more efficiently than humans alone.\n\nUltimately, striking an appropriate balance between technological advancement and privacy protection will require ongoing dialogue among policymakers, technologists, ethicists, and ordinary citizens alike. By working together towards common goals such as data security standards, transparency measures, and consumer rights protections — we can ensure that technology continues to serve humanity well into the future while safeguarding its most precious asset: human dignity and autonomy.",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 1,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 204
+    }
+  },
+  {
+    "prompt": "Write a short essay about the relationship between technology and privacy.",
+    "run": 2,
+    "text": "The relationship between technology and privacy has been one of the most debated topics in recent years. On one hand, technology has revolutionized many aspects of our lives — making communication easier than ever before, allowing us to access information from anywhere at any time, and enabling new forms of entertainment such as streaming services and social media platforms.\n\nHowever, with these advancements comes concerns over individual privacy rights. As more data is collected and analyzed through algorithms and machine learning models, there is growing concern that this could lead to breaches of personal security or misuse of sensitive information.\n\nOne example of this issue is the Cambridge Analytica scandal, which exposed how Facebook's platform was used to collect vast amounts of user data without explicit consent — leading to allegations of political interference during elections around the world. Similarly, companies like Google and Amazon have faced scrutiny for their use of facial recognition technologies and other surveillance methods that may infringe upon people’s right to privacy.\n\nIn response to these challenges, governments worldwide have implemented various regulations aimed at protecting citizens' digital rights. For instance, GDPR (General Data Protection Regulation) introduced strict rules governing how organizations must handle personal data within Europe. Additionally, countries like China have developed its own set of guidelines for managing government-held information.\n\nDespite efforts to mitigate risks associated with technological development, it remains unclear whether we can fully balance the benefits of modern-day tech against potential drawbacks regarding privacy protection. Future research will likely focus on developing effective solutions that ensure both innovation and security coexist harmoniously.",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 263
+    }
+  },
+  {
+    "prompt": "Write a short essay about the relationship between technology and privacy.",
+    "run": 3,
+    "text": "The relationship between technology and privacy is complex and multifaceted. On one hand, technology has made it possible for individuals to access information that was previously unavailable or difficult to obtain — which can be both beneficial and empowering. For example, smartphones allow users to stay connected with friends and family around the world, while online shopping platforms enable consumers to easily purchase goods from anywhere in the world.\n\nHowever, this same level of connectivity also raises concerns about data security and privacy violations. With so much personal information being collected and stored electronically, there is always the risk of it being hacked or misused by third parties who may not have our best interests at heart. This poses significant threats to individuals' autonomy and control over their own lives.\n\nMoreover, as more aspects of daily life become automated through artificial intelligence (AI) and machine learning algorithms, there is an increasing need for transparent and accountable systems that protect user rights and ensure fairness in decision-making processes. The use of facial recognition technologies for law enforcement purposes alone raises serious questions about civil liberties and surveillance state tendencies.\n\nIn conclusion, although technology has undoubtedly transformed many areas of society positively, its impact on privacy remains controversial due to potential risks associated with data breaches, misuse of personal information, and erosion of individual freedoms. As such, policymakers must carefully consider how they design regulations around emerging technologies to strike a balance between innovation and protection of citizens' fundamental rights. Only then can we hope to harness the full potential of technological advancements without compromising our cherished notions of privacy and autonomy",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 270
+    }
+  },
+  {
+    "prompt": "Write a short essay about the relationship between technology and privacy.",
+    "run": 4,
+    "text": "The relationship between technology and privacy has been a topic of great debate for decades. On one hand, technology has revolutionized many aspects of our lives — from communication to entertainment to commerce.\n\nFor example, smartphones allow us to stay connected with friends and family around the world in real-time. Social media platforms provide opportunities for people to share their thoughts and experiences with others who have similar interests or beliefs. Online shopping makes it easier than ever before to purchase goods and services without leaving home.\n\nHowever, these same technologies also pose significant risks to individual privacy. With every click and swipe on our devices comes an increased likelihood that sensitive information will be collected and used by companies or governments for various purposes — such as targeted advertising, surveillance, or even criminal activities.\n\nMoreover, there is often little control over how this data is handled or stored. Without proper safeguards in place, personal information can easily fall into the wrong hands, leading to identity theft, fraud, or other forms of harm.\n\nAs we continue to rely more heavily on technology in our daily lives, it becomes increasingly important to prioritize protecting our privacy rights. This means being mindful of what kind of information we share online and with whom; using strong passwords and two-factor authentication whenever possible; and supporting policies and laws that ensure maximum transparency and accountability when it comes to collecting and utilizing personal data.\n\nUltimately, finding a balance between harnessing the benefits of technological advancements while safeguarding against potential threats requires collaboration among individuals, organizations, and governments alike. By working together towards",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 2,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 267
+    }
+  },
+  {
+    "prompt": "Write a short essay about space exploration in the 21st century.",
+    "run": 0,
+    "text": "The 21st century has been marked by significant advancements and breakthroughs in various fields of science and technology, including space exploration.\n\nOne notable development is the increasing use of robotic spacecraft to study planets beyond our own solar system. NASA's Kepler mission discovered thousands of exoplanets — worlds orbiting other stars — providing valuable insights into potential habitability outside Earth. Another example is SpaceX's Dragon capsule, which successfully docked with the International Space Station (ISS) multiple times as part of its commercial crew program.\n\nIn addition to unmanned missions, there has also been progress on returning humans safely back to Earth from space. The first privately funded astronaut to walk on the moon was NASA contractor Robert Behnken; he completed his journey aboard SpaceX's Crew-1 mission in May 2020. This marks an important milestone towards achieving long-term human presence in space.\n\nHowever, challenges remain when it comes to sustaining life in zero-gravity environments or dealing with radiation exposure during deep-space travel. To address these issues, scientists continue researching new materials that can withstand harsh conditions found in outer space while remaining lightweight enough for use in spacecraft construction.\n\nMoreover, international cooperation plays a crucial role in advancing space exploration efforts. Organizations like the United Nations Committee on the Peaceful Uses of Outer Space work together to develop guidelines and regulations regarding activities conducted in near-Earth orbit and beyond.\n\nOverall, the 21st-century landscape of space exploration demonstrates both exciting possibilities and ongoing challenges. As technology continues to evolve",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 1,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 247
+    }
+  },
+  {
+    "prompt": "Write a short essay about space exploration in the 21st century.",
+    "run": 1,
+    "text": "The 21st century has seen remarkable advancements and developments in space exploration, marking significant milestones that have reshaped our understanding of the universe and expanded human capabilities beyond Earth's atmosphere.\n\nOne of the most notable achievements was the landing of rovers on Mars — including NASA’s Perseverance rover and China’s Tianwen-1 mission. These missions not only provided valuable scientific data but also demonstrated the feasibility of robotic exploration beyond our planet. Additionally, private companies like SpaceX have revolutionized satellite launches with reusable rockets, significantly reducing costs and increasing efficiency.\n\nAnother crucial aspect of modern space exploration is international cooperation. The International Space Station (ISS) serves as a microgravity laboratory where astronauts conduct research across various fields such as biology, physics, astronomy, and even education initiatives for students worldwide. This collaborative effort underscores humanity’s shared goal of advancing knowledge through interdisciplinary collaboration.\n\nMoreover, efforts towards sustainable practices within space travel continue to grow. Efforts include recycling waste materials from spacecraft into usable resources — reducing environmental impact while fostering innovation among industries dealing with resource scarcity on Earth.\n\nIn conclusion, the 21st century has witnessed substantial progress in space exploration, driven by technological innovations, international partnerships, and a renewed commitment to science and discovery. As we look ahead, these ongoing endeavors promise exciting discoveries yet to come — potentially unlocking new frontiers in technology, medicine, and even planetary protection strategies — setting the stage for future generations' quests to explore beyond our solar system.",
+    "markers": {
+      "em_dash": 4,
+      "en_dash": 0,
+      "dash_total": 4,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 243
+    }
+  },
+  {
+    "prompt": "Write a short essay about space exploration in the 21st century.",
+    "run": 2,
+    "text": "The 21st century has seen significant advancements and developments in space exploration that have transformed our understanding of the universe beyond Earth's atmosphere. This period marked by technological innovation and international collaboration represents a new era where humans venture further into space than ever before.\n\nOne notable achievement was NASA’s Apollo missions to the Moon — which not only demonstrated human capability but also laid the groundwork for future lunar research programs. The International Space Station (ISS) became another milestone — providing scientists with an orbital laboratory where they could conduct experiments without needing to launch materials or equipment from Earth.\n\nIn recent years, private companies like SpaceX have emerged as major players in commercial space travel — revolutionizing access to low-Earth orbit. Companies such as Blue Origin and Virgin Galactic aim to make space tourism more accessible — though these efforts remain largely experimental at present.\n\nHowever, despite these successes, many challenges still exist — including cost-effectiveness, sustainability of space activities, and ensuring safety for astronauts during extended stays in microgravity environments. Additionally, questions around extraterrestrial life detection continue to drive scientific curiosity and resource allocation towards astrobiology studies.\n\nLooking ahead, continued investment in space technology will likely lead to breakthroughs in areas like advanced propulsion systems, habitation modules for long-duration missions, and even potential colonization of Mars — if conditions permit it. Moreover, international cooperation through organizations like ESA (European Space Agency) and COSPAR (Committee on Space Research Organization) ensures shared knowledge and resources across nations.\n\nOverall, while there are undoubtedly obstacles",
+    "markers": {
+      "em_dash": 6,
+      "en_dash": 0,
+      "dash_total": 6,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 254
+    }
+  },
+  {
+    "prompt": "Write a short essay about space exploration in the 21st century.",
+    "run": 3,
+    "text": "The 21st century has seen significant advancements and developments in space exploration — both from government agencies like NASA and private companies such as SpaceX.\n\nOne notable achievement was the successful landing of Perseverance on Mars in February 2021 — marking humanity's first-ever attempt to explore another planet with a rover. This mission aimed to search for signs of past life on Mars and collect samples that could one day be returned to Earth.\n\nAnother major milestone came when China launched its Chang'e-5 probe — which successfully collected lunar rocks and soil in December 2020. The mission demonstrated China's growing capability to conduct sophisticated space missions beyond low-Earth orbit.\n\nIn terms of technology development, we've witnessed remarkable progress in areas such as propulsion systems (including nuclear thermal rockets), advanced materials for spacecraft structures, and autonomous navigation algorithms used during deep-space missions.\n\nMoreover, there has been increasing interest in commercialization of space activities — leading to numerous startups focused on launching satellites, developing reusable rocket technologies, or providing services related to orbital debris removal or asteroid mining.\n\nHowever, challenges remain — including cost constraints, geopolitical tensions affecting international cooperation on space projects, environmental concerns regarding space debris, and ethical considerations surrounding extraterrestrial colonization or resource extraction.\n\nOverall, while many exciting opportunities lie ahead for future generations in space exploration, addressing these ongoing issues will be crucial for ensuring sustainable growth and success in this rapidly evolving field.",
+    "markers": {
+      "em_dash": 5,
+      "en_dash": 0,
+      "dash_total": 5,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 236
+    }
+  },
+  {
+    "prompt": "Write a short essay about space exploration in the 21st century.",
+    "run": 4,
+    "text": "The 21st century has seen significant advancements and progress in space exploration — both technological innovations and scientific discoveries have greatly enhanced our understanding of the universe.\n\nOne major milestone was the successful landing of NASA's Perseverance rover on Mars in February 2021. This mission marked humanity's first attempt at establishing long-term human settlements on another planet — an ambitious goal that requires complex engineering solutions to survive such extreme conditions as radiation exposure and lack of breathable atmosphere.\n\nIn addition to robotic missions like these, there has been increased investment in satellite technology for communication networks — providing faster internet speeds worldwide through low Earth orbit satellites. These satellites also play crucial roles in weather forecasting, navigation systems (GPS), and even medical applications like remote patient monitoring.\n\nMoreover, private companies like SpaceX and Blue Origin have revolutionized access to space travel with reusable rockets and commercial spacecraft designed specifically for tourists or cargo delivery services. Companies like Virgin Galactic plan to offer suborbital flights into space within the next decade — opening up new opportunities for adventure tourism beyond Earth's atmosphere.\n\nHowever, despite these exciting developments, challenges remain — particularly regarding environmental impacts from launch activities and potential risks associated with asteroid mining. As we continue exploring deeper into space, it is essential to prioritize sustainability efforts alongside scientific pursuits — ensuring safe practices while maximizing knowledge gained from each journey.\n\nOverall, the 21st century represents a golden era for space exploration — one where humanity stands poised to uncover more mysteries about our cosmos than ever before — but with",
+    "markers": {
+      "em_dash": 8,
+      "en_dash": 0,
+      "dash_total": 8,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 262
+    }
+  },
+  {
+    "prompt": "Write a short essay about the rise of remote work and its effects.",
+    "run": 0,
+    "text": "The rise of remote work has been one of the most significant changes in recent years — transforming how people work both professionally and personally.\n\nRemote work refers to any form of job that is performed outside of an office setting using technology such as video conferencing software or collaboration tools like Slack or Microsoft Teams. This trend began with companies adopting flexible working hours policies but quickly evolved into full-blown remote work models where employees can work from home or other locations around the world.\n\nOne of the main advantages of remote work is increased flexibility for workers. With no need to commute to an office every day, employees have more control over their schedules and can prioritize personal responsibilities alongside professional duties. Additionally, remote workers often enjoy better work-life balance since they don't have to deal with daily commutes or noisy environments typical of traditional offices.\n\nHowever, there are also challenges associated with remote work. Communication can sometimes be difficult when team members are spread across different time zones or cultures, leading to misunderstandings or delays in project progress. Moreover, maintaining relationships with colleagues who live far away requires extra effort and may lead to feelings of isolation among some individuals.\n\nDespite these drawbacks, many businesses now see remote work as beneficial because it allows them to access talent pools previously unavailable due to geographical constraints. For instance, startups can hire talented developers based in Silicon Valley without having to relocate them to San Francisco or New York City.\n\nIn conclusion, while remote work comes with its own set of challenges, it offers numerous benefits for employers and employees alike.",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 272
+    }
+  },
+  {
+    "prompt": "Write a short essay about the rise of remote work and its effects.",
+    "run": 1,
+    "text": "The rise of remote work has been one of the most significant changes in the modern workplace landscape over the past few decades. With advancements in technology and globalization, many companies have started offering flexible working arrangements to their employees — allowing them to choose when, where, and how they do their jobs.\n\nOne of the main benefits of remote work is increased flexibility for both employers and employees. This means that individuals can better manage their personal lives while still being productive at their job. Additionally, it allows businesses to reduce overhead costs associated with traditional office spaces — such as rent, utilities, and maintenance expenses.\n\nHowever, there are also some challenges associated with remote work. For example, communication can be difficult without face-to-face interactions, which may lead to misunderstandings or miscommunications between team members. Moreover, maintaining productivity levels during long periods away from colleagues can be challenging, especially if not properly managed.\n\nDespite these potential drawbacks, remote work continues to grow in popularity among businesses worldwide due to its numerous advantages. It offers greater convenience for workers who want more control over their schedules and locations, as well as cost savings for organizations looking to cut down on operating expenses.\n\nIn conclusion, the shift towards remote work represents an important trend shaping the future of business operations globally. While there are certainly challenges involved, the opportunities presented by this new model make it an attractive option for many employers seeking innovative ways to enhance efficiency and engagement within their teams.",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 252
+    }
+  },
+  {
+    "prompt": "Write a short essay about the rise of remote work and its effects.",
+    "run": 2,
+    "text": "The rise of remote work has been one of the most significant changes in the workplace landscape over the past few decades. This shift towards remote or flexible working arrangements has transformed how companies operate and how employees spend their time.\n\nOne of the primary reasons for this trend is technological advancements that have made communication and collaboration easier than ever before. With the advent of video conferencing tools like Zoom, Microsoft Teams, and Slack, teams can now connect virtually regardless of location. This has enabled businesses to maintain productivity levels while allowing employees to choose when they work best — whether it's early morning, late at night, or any other time during the day.\n\nHowever, there are also challenges associated with remote work. For example, maintaining relationships between colleagues who may not see each other daily poses difficulties. Additionally, managing workload distribution across multiple locations requires careful planning and coordination — which can be challenging for some organizations.\n\nDespite these issues, many employers find that remote work leads to increased flexibility for both workers and employers alike. Employees enjoy greater autonomy over their schedules and can balance personal commitments more easily. Meanwhile, companies benefit from reduced overhead costs related to office space and utilities — potentially leading to cost savings.\n\nIn conclusion, the rise of remote work represents a significant evolution in modern business practices. While it comes with its own set of challenges, the benefits appear to outweigh them for those willing to adapt to new ways of working. As technology continues to advance, we can expect even more innovative solutions to emerge that further enhance the potential of remote",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 272
+    }
+  },
+  {
+    "prompt": "Write a short essay about the rise of remote work and its effects.",
+    "run": 3,
+    "text": "The rise of remote work has been one of the most significant changes in modern business culture over the past few decades. With advances in technology and globalization, more companies are adopting flexible working arrangements where employees can perform their jobs from anywhere — as long as they have access to reliable internet connectivity.\n\nOne of the primary benefits of remote work is increased flexibility for both employers and employees. This allows businesses to hire talent from around the world without having to relocate them physically. It also enables individuals to balance work and personal life better since they don't need to commute daily or deal with typical office politics.\n\nHowever, there are challenges associated with remote work that must be addressed:\n\n1. Communication: Effective communication remains crucial even when teams aren't colocated. Tools like video conferencing software, instant messaging apps, and project management platforms help facilitate collaboration among team members who may not see each other face-to-face regularly.\n2. Productivity: While some studies suggest that remote workers can be just as productive as those in traditional offices, others argue that distractions at home might hinder focus during certain tasks. Employers should implement policies promoting productivity while still respecting employee autonomy.\n3. Social Interaction: The lack of physical proximity can lead to reduced social interaction among colleagues. To mitigate this issue, organizations often organize virtual happy hours, coffee breaks, or other casual gatherings to foster camaraderie within the team.\n\nIn conclusion, the shift towards remote work presents opportunities for businesses seeking innovative ways to attract top talent and improve operational efficiency. However",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 4,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 262
+    }
+  },
+  {
+    "prompt": "Write a short essay about the rise of remote work and its effects.",
+    "run": 4,
+    "text": "The rise of remote work has been one of the most significant changes in modern business operations over the past few decades. With advancements in technology and globalization, more companies are adopting flexible working arrangements that allow employees to perform their jobs from anywhere with an internet connection.\n\nOne of the main benefits of remote work is increased flexibility — allowing individuals to balance their personal life with professional responsibilities more easily than ever before. This can lead to higher job satisfaction rates as workers feel less pressure to constantly be \"on call\" or attend meetings during non-work hours.\n\nHowever, there are also challenges associated with remote work such as communication difficulties and isolation among team members who may not interact face-to-face regularly. Additionally, some employers might struggle with maintaining productivity standards when employees aren't physically present at the office.\n\nDespite these potential drawbacks, many businesses have found success in implementing remote work policies due to cost savings on overhead expenses like rent, utilities, and commuting costs. Moreover, remote teams often demonstrate greater creativity and innovation compared to traditional office-based setups because they have access to diverse perspectives and ideas outside of their immediate environment.\n\nIn conclusion, while remote work presents both opportunities and obstacles for organizations looking to adapt to changing market conditions and employee preferences, it remains an increasingly popular trend shaping how we do business today. As technology continues to evolve, we can expect further innovations that will continue to transform the way we approach remote work and collaborate across geographical boundaries.",
+    "markers": {
+      "em_dash": 1,
+      "en_dash": 0,
+      "dash_total": 1,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 255
+    }
+  },
+  {
+    "prompt": "Write a short essay about challenges facing healthcare systems worldwide.",
+    "run": 0,
+    "text": "Healthcare systems around the world face numerous challenges that impact their ability to provide high-quality care to populations in need. These issues include:\n\n1. Aging population: Many countries have experienced an increase in life expectancy due to advances in medicine and technology. This has led to an aging population — which puts pressure on existing healthcare resources.\n\n2. Limited funding: Healthcare budgets often struggle to keep up with rising costs associated with medical treatments and equipment. As a result, many patients may not receive necessary treatments or medications due to financial constraints.\n\n3. Staff shortages: The demand for healthcare professionals continues to outpace supply — particularly nurses, doctors, and other specialists who play crucial roles in providing patient care. This shortage can lead to longer wait times for appointments and poorer quality of care.\n\n4. Access barriers: Not everyone has equal access to healthcare services based on socioeconomic factors such as income level, location, education status, race/ethnicity, gender identity, sexual orientation, disability status, age, language proficiency, immigration status, citizenship status, religion/spirituality, or any combination thereof.\n\n5. Technological advancements vs human interaction: With the rapid development of digital health technologies like telemedicine, remote monitoring devices, and electronic health records, there's an increasing emphasis on technology integration into healthcare delivery models. However, these innovations must be balanced with traditional forms of communication between clinicians and patients.\n\n6. Pandemics: Global pandemics pose significant threats to public health infrastructure — requiring swift response efforts from governments, organizations",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 7,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 243
+    }
+  },
+  {
+    "prompt": "Write a short essay about challenges facing healthcare systems worldwide.",
+    "run": 1,
+    "text": "Healthcare systems around the world face numerous challenges that threaten their sustainability and effectiveness. These issues can be broadly categorized into economic, social, technological, environmental, and political factors.\n\nOne of the primary challenges is financing. Many countries struggle to provide adequate funding for healthcare services due to high costs associated with medical treatments and equipment. This lack of financial resources often leads to inadequate care provision — particularly in remote areas or low-income communities where patients may not receive necessary treatment because they cannot afford it.\n\nSocial determinants also play a significant role in shaping healthcare needs and outcomes. Factors such as poverty, education levels, access to healthy food, housing quality, and employment opportunities all influence an individual's health status and ability to maintain good physical and mental well-being. For instance, people living in disadvantaged neighborhoods might have limited access to nutritious meals, safe recreational spaces, or job security — which increases their risk of chronic diseases like diabetes or heart disease.\n\nTechnological advancements offer potential solutions but come with their own set of problems. While digital technologies enable better diagnostic tools, telemedicine platforms, and personalized medicine approaches, they require substantial investments in infrastructure development and cybersecurity measures to ensure patient data privacy and security. Moreover, these innovations need to be integrated into existing healthcare delivery models efficiently without compromising quality standards.\n\nEnvironmental concerns related to climate change exacerbate existing health disparities globally. Extreme weather events, air pollution from industrial activities, deforestation, and water scarcity affect public health directly through increased incidence of respiratory illnesses, gastrointestinal disorders, heat-related",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 258
+    }
+  },
+  {
+    "prompt": "Write a short essay about challenges facing healthcare systems worldwide.",
+    "run": 2,
+    "text": "The global health landscape is constantly evolving, presenting various challenges that affect the quality and accessibility of healthcare services around the world.\n\nOne significant challenge is the increasing demand for medical resources due to population growth and aging populations — leading to overcrowded hospitals and long wait times for appointments. Additionally, there is often a shortage of qualified healthcare professionals in many countries, particularly in developing nations where training programs may not be as extensive or well-funded.\n\nAnother issue is the rising cost of prescription drugs and medical equipment — which can be prohibitively expensive for low-income families and governments struggling with budget constraints. This leads to limited access to essential medications and treatments that could save lives.\n\nFurthermore, pandemics such as COVID-19 have highlighted existing vulnerabilities in our healthcare systems — including inadequate preparedness plans, lack of vaccine distribution infrastructure, and insufficient public awareness campaigns regarding preventive measures like mask-wearing and handwashing.\n\nLastly, climate change poses new risks to human health through increased frequency and intensity of natural disasters — impacting both mental and physical wellbeing — while also posing threats to food security and water supplies crucial for sustaining life.\n\nAddressing these challenges requires concerted efforts from policymakers, international organizations, NGOs, and individuals themselves — focusing on investments in education and research, improving supply chain management, enhancing digital health technologies, promoting equitable access to care, and fostering collaboration between stakeholders at all levels. Only then will we be able to create sustainable solutions that improve overall health outcomes globally.",
+    "markers": {
+      "em_dash": 6,
+      "en_dash": 0,
+      "dash_total": 6,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 251
+    }
+  },
+  {
+    "prompt": "Write a short essay about challenges facing healthcare systems worldwide.",
+    "run": 3,
+    "text": "Healthcare systems around the world face numerous challenges that impact their ability to provide high-quality care for all citizens. Here are some of the key issues:\n\n1. **Financial Constraints**: Many countries struggle with inadequate funding for health services — leading to reduced access to essential medical treatments and equipment. This is particularly acute in low- and middle-income regions where governments often prioritize other priorities over healthcare spending.\n\n2. **Population Growth and Aging Demographics**: As populations continue to grow and age, there's an increased demand for healthcare resources. Older individuals require more specialized care than younger ones do, which can strain existing facilities and staff capacities.\n\n3. **Technology Integration**: The integration of modern technology into healthcare delivery remains challenging due to technological disparities among different parts of society. Not everyone has equal access to digital tools such as telemedicine platforms or electronic health records (EHRs), which could improve patient outcomes if widely adopted.\n\n4. **Preventive Care Disparities**: There’s a significant gap between those who receive regular preventive screenings and those who don’t — especially among marginalized communities. Lack of awareness about preventive measures, lack of transportation options for certain groups, and cultural barriers all contribute to this disparity.\n\n5. **Mental Health Stigma**: Mental illness continues to be underreported and undertreated globally. Stigma surrounding mental health disorders prevents many people from seeking help early on — resulting in delayed diagnosis and treatment.\n\n6. **Climate Change Impacts**: Extreme weather events caused by climate change pose new",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 7,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 6,
+      "words": 243
+    }
+  },
+  {
+    "prompt": "Write a short essay about challenges facing healthcare systems worldwide.",
+    "run": 4,
+    "text": "The global healthcare system faces numerous challenges that affect its ability to provide adequate care for all citizens. These issues include:\n\n1. Aging population: As countries experience higher rates of life expectancy and declining birth rates, there is an increasing demand for older adults — many of whom require specialized medical attention.\n\n2. Limited resources: Many nations struggle with insufficient funding for healthcare infrastructure, personnel training programs, and research initiatives aimed at improving patient outcomes.\n\n3. Access barriers: Geographic isolation, socio-economic disparities, language differences, cultural norms around health-seeking behavior — among other factors — contribute to unequal access to quality healthcare services across different regions.\n\n4. Technological advancements vs human touch: While technological innovations like telemedicine offer new ways to deliver care remotely, they may not replace the need for personal interaction between patients and clinicians.\n\n5. Drug shortages: The pharmaceutical industry's inability to produce sufficient quantities of certain medications can lead to shortages in hospitals and clinics globally.\n\n6. Mental health crisis: With growing numbers of individuals struggling with anxiety disorders, depression, substance abuse problems, etc., there is a pressing need for improved mental health support systems within public health settings.\n\n7. Climate change impacts: Extreme weather events resulting from climate change threaten water supplies, food security, and overall well-being — potentially exacerbating existing health crises such as malnutrition and infectious diseases.\n\n8. Vaccine hesitancy: Despite scientific consensus on vaccination effectiveness against various pathogens, skepticism towards vaccines persists among some segments of society due to misinformation or mistrust in",
+    "markers": {
+      "em_dash": 4,
+      "en_dash": 0,
+      "dash_total": 4,
+      "colon": 9,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 250
+    }
+  },
+  {
+    "prompt": "Write a short essay about how social media has transformed society.",
+    "run": 0,
+    "text": "Social media has had a profound impact on modern society in many ways. It has changed the way we communicate with each other, access information, and even participate in politics.\n\nOne of the most significant effects of social media is its ability to connect people from all over the world instantly — regardless of distance or location. This has made it easier for individuals to form communities based on shared interests or causes they care about. Social media platforms like Facebook, Twitter, Instagram, and LinkedIn provide spaces where users can connect with others who share their views and opinions.\n\nAnother way that social media has transformed society is through its influence on consumer behavior. Companies now use social media as a tool to market products and services directly to consumers — often bypassing traditional advertising channels altogether. This has led to increased competition among businesses and changes in purchasing habits as consumers seek out personalized recommendations from brands they follow online.\n\nFurthermore, social media has played a role in shaping public discourse around important issues such as politics, religion, culture, and health. With millions of people tuning into news updates every day, social media serves as an outlet for citizens to express themselves freely and engage in constructive dialogue — although there are concerns about fake news spreading rapidly across these networks.\n\nIn conclusion, while social media brings numerous benefits — including improved connectivity and new business opportunities — it also poses challenges related to privacy, misinformation, and polarization. As technology continues to evolve, it's essential to navigate these complexities carefully and work towards creating positive outcomes for everyone involved.",
+    "markers": {
+      "em_dash": 5,
+      "en_dash": 0,
+      "dash_total": 5,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 270
+    }
+  },
+  {
+    "prompt": "Write a short essay about how social media has transformed society.",
+    "run": 1,
+    "text": "Social media has revolutionized the way people interact with each other around the world today. It has changed communication patterns and brought new opportunities for collaboration, information sharing, and cultural exchange.\n\nOne of the most significant impacts of social media is its ability to connect people who would otherwise never meet — breaking down geographical barriers that have long separated communities. This can lead to increased diversity in perspectives and experiences, which may foster greater understanding between different groups of people.\n\nAdditionally, social media platforms provide users with easy access to news and events happening globally in real-time. They allow individuals to stay informed about current affairs without having to rely solely on traditional media sources. Moreover, these platforms enable businesses to reach wider audiences through targeted advertising campaigns based on user demographics and interests.\n\nHowever, there are also concerns surrounding privacy violations and cyberbullying associated with excessive screen time use among young people. As such, it's important for parents and educators to monitor children's online activities carefully while promoting healthy habits when consuming digital content.\n\nIn conclusion, social media has undoubtedly had profound effects on modern society — reshaping how we communicate, learn, work together, and consume information. While there are certainly challenges ahead regarding data security and ethical considerations related to technology usage, embracing this rapidly evolving landscape presents exciting possibilities for innovation and progress.",
+    "markers": {
+      "em_dash": 2,
+      "en_dash": 0,
+      "dash_total": 2,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 227
+    }
+  },
+  {
+    "prompt": "Write a short essay about how social media has transformed society.",
+    "run": 2,
+    "text": "Social media has had a significant impact on modern society in many ways.\n\nOne major way that social media has transformed society is through its ability to connect people from all over the world who may not otherwise have met each other. Social media platforms like Facebook and Twitter allow users to share their thoughts, ideas, and experiences with others who live far away — often allowing them to form new friendships and relationships based solely on shared interests or hobbies.\n\nAdditionally, social media has revolutionized communication between individuals within communities as well. People can now easily communicate with one another using messaging apps such as WhatsApp and Instagram Direct Message, which makes it much easier for groups of friends to stay connected even if they live in different locations or time zones.\n\nMoreover, social media has also played an important role in shaping public opinion and influencing political discourse. Politicians use social media accounts to reach out directly to voters and promote their campaigns — while citizens use these same channels to express themselves politically and hold elected officials accountable.\n\nFinally, social media has changed the way businesses operate by providing companies with powerful tools for marketing their products and services to consumers worldwide. Marketers can now target specific demographics based on age, gender, location, interests, etc., making it easier than ever before to reach potential customers where they spend most of their time online.\n\nIn conclusion, social media has undoubtedly transformed society in numerous ways — from connecting people across distances to changing the landscape of politics and business. As this technology continues to evolve, it will likely continue to shape our",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 274
+    }
+  },
+  {
+    "prompt": "Write a short essay about how social media has transformed society.",
+    "run": 3,
+    "text": "Social media has become an integral part of modern life, transforming various aspects of society in profound ways.\n\nOne significant impact of social media is its role in communication and connectivity. With just a few clicks or taps on our smartphones, we can instantly connect with people from all over the world — regardless of distance or time zone. This has led to increased global awareness and understanding among individuals who may not have had access to these platforms otherwise. Moreover, social media enables marginalized communities to share their stories and experiences more easily than ever before, promoting inclusivity and diversity within societies.\n\nAnother crucial effect of social media is its influence on politics and democracy. Politicians now use social media to reach out directly to voters — often bypassing traditional channels like television ads or radio broadcasts. This allows them to engage with constituents in real-time and respond quickly to issues that matter most to them. However, it also raises concerns about misinformation spread through these platforms — which can negatively affect public opinion and decision-making processes.\n\nEducation has been another area greatly impacted by social media. Online learning platforms such as Coursera and Khan Academy provide access to high-quality educational content — making knowledge more widely available than ever before. Students can learn at their own pace and convenience, while teachers can create engaging lessons using multimedia resources. Additionally, social media influencers play a vital role in shaping public discourse around important topics — helping younger generations develop critical thinking skills and stay informed about current events.\n\nHealthcare delivery has undergone significant changes due to social media's prevalence",
+    "markers": {
+      "em_dash": 5,
+      "en_dash": 0,
+      "dash_total": 5,
+      "colon": 0,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 0,
+      "words": 270
+    }
+  },
+  {
+    "prompt": "Write a short essay about how social media has transformed society.",
+    "run": 4,
+    "text": "The advent of social media platforms like Facebook, Twitter, Instagram, and others has revolutionized the way people communicate, interact, consume information, and even live their lives. Here are some key ways in which social media has transformed society:\n\n1. **Communication**: Social media has made it easier than ever before for individuals to connect with one another across vast distances. It provides an instant platform where people can share thoughts, opinions, photos, videos — anything they want to express themselves freely without fear of censorship or judgment.\n\n2. **Democratization of Information**: Traditional media outlets often have strict editorial processes that filter out certain types of content deemed inappropriate or controversial. In contrast, social media allows anyone to post whatever they choose — albeit sometimes accompanied by backlash from those who disagree. This democratization of information leads to more diverse perspectives being heard and discussed publicly.\n\n3. **E-commerce Growth**: The rise of social commerce (combining e-commerce with social features) has significantly boosted online shopping experiences. Users now have access to products directly through messaging apps or websites integrated within these platforms — making purchases seamless while maintaining engagement with brands and fellow consumers.\n\n4. **Changing Behavior Patterns**: Social media influences consumer behavior by shaping expectations around what constitutes quality entertainment, beauty standards, fitness goals, etc. Marketers leverage this influence to create targeted campaigns that resonate emotionally rather than logically.\n\n5. **Political Engagement**: During elections and other significant events, social media plays a crucial role in mobilizing voters and spreading messages quickly",
+    "markers": {
+      "em_dash": 3,
+      "en_dash": 0,
+      "dash_total": 3,
+      "colon": 6,
+      "semicolon": 0,
+      "bullet": 0,
+      "markdown_heading": 0,
+      "bold": 5,
+      "words": 249
+    }
+  }
+]
